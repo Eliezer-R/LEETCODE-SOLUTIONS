@@ -53,7 +53,7 @@ problems/
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tuusuario/leetcode-solutions.git
+git clone git@github.com:Eliezer-R/LEETCODE-SOLUTIONS.git
 
 # Si quiere utilizar standard/linter
 npm install
