@@ -33,7 +33,7 @@ problems/
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
 | [Two Sum](problems/easy/01-two-sum/) | Fácil | Array, Hash Map | [main.js](problems/easy/01-two-sum/main.js), [main2.js](problems/easy/01-two-sum/main2.js) |
-| [Search Insert Position](problems/easy/35-Search-Insert-Position/) | Fácil | Array, Binary Search | [main.js](problems/easy/01-two-sum/main.js)|
+| [Search Insert Position](problems/easy/35-Search-Insert-Position/) | Fácil | Array, Binary Search | [main.js](problems/easy/35-Search-Insert-Position/main.js)|
 
 ## 🧠 Enfoque para Resolver Problemas
 
@@ -74,6 +74,7 @@ node problems/easy/01-two-sum/main2.js
 
 - ✅ Arrays
 - ✅ Hash Map
+- ✅ Binary Search
 
 ---
 
