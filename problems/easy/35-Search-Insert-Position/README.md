@@ -49,12 +49,6 @@ Debes escribir un algoritmo con complejidad O(log n).
 
 ```js
 const searchInsert = function (nums, target) {
-  // Verificamos si el número está dentro del array
-  if (nums.includes(target)) {
-    // Si está, devolvemos su índice
-    return nums.indexOf(target)
-  }
-
   // Usamos dos punteros para la búsqueda binaria
   let init = 0 // Índice inicial
   let final = nums.length - 1 // Índice final
