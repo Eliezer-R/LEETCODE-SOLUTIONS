@@ -120,10 +120,10 @@ console.log(stringMatching(['leetcoder', 'leetcode', 'od', 'hamlet', 'am']))
 - Ambas soluciones funcionan bien para listas pequeñas o medianas.
 - La segunda solución (`main2.js`) es preferible por su simplicidad y eficiencia.
 
-**Sin includes**: 
+`Sin includes`: 
  ![Código sin includes](./public/MetodSinIncludes.png)
-
-**Con el metodo includes**: 
+---
+`Con el metodo includes`: 
  ![Código sin includes](./public/MethodConInclude.png)
 
 ---
