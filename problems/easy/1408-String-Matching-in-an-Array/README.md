@@ -122,7 +122,7 @@ console.log(stringMatching(['leetcoder', 'leetcode', 'od', 'hamlet', 'am']))
 
 `Sin includes`: 
  ![Código sin includes](./public/MetodSinIncludes.png)
----
+
 `Con el metodo includes`: 
  ![Código sin includes](./public/MethodConInclude.png)
 
