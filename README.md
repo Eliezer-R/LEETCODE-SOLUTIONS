@@ -4,7 +4,7 @@
 
 ## 📊 Resumen de Progreso
 
-![Problemas Resueltos](/images/problem-resul.png)
+![Problemas Resueltos](/images/ProblemsSolved.png)
 
 ## 🎯 Objetivos
 
@@ -34,6 +34,7 @@ problems/
 |------------|------------|----------------------|-------------------------------|
 | [Two Sum](problems/easy/01-two-sum/) | Fácil | Array, Hash Map | [main.js](problems/easy/01-two-sum/main.js), [main2.js](problems/easy/01-two-sum/main2.js) |
 | [Search Insert Position](problems/easy/35-Search-Insert-Position/) | Fácil | Array, Binary Search | [main.js](problems/easy/35-Search-Insert-Position/main.js)|
+| [Search Insert Position](problems/easy/1408-String-Matching-in-an-Array/) | Fácil | Array, String, String Maching | [main.js](problems/easy/1408-String-Matching-in-an-Array/main.js), [main2.js](problems/easy/1408-String-Matching-in-an-Array/main2.js) |
 
 ## 🧠 Enfoque para Resolver Problemas
 
@@ -75,6 +76,8 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Arrays
 - ✅ Hash Map
 - ✅ Binary Search
+- ✅ String
+- ✅ String Maching
 
 ---
 
