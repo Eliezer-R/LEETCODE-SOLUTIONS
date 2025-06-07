@@ -121,7 +121,7 @@ A continuación se muestra la solución optimizada usando un diccionario (Hash M
 
 ---
  
-**Tiempo invertido**: 4 minutos  
+**Tiempo invertido**: 3 minutos  
 **Intentos**: 1  
 **Dificultad percibida**: Ninguna
 
