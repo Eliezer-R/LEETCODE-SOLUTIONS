@@ -35,6 +35,7 @@ problems/
 | [Two Sum](problems/easy/01-two-sum/) | Fácil | Array, Hash Map | [main.js](problems/easy/01-two-sum/main.js), [main2.js](problems/easy/01-two-sum/main2.js) |
 | [Search Insert Position](problems/easy/35-Search-Insert-Position/) | Fácil | Array, Binary Search | [main.js](problems/easy/35-Search-Insert-Position/main.js)|
 | [String Matching in an Array](problems/easy/1408-String-Matching-in-an-Array/) | Fácil | Array, String, String Matching | [main.js](problems/easy/1408-String-Matching-in-an-Array/main.js), [main2.js](problems/easy/1408-String-Matching-in-an-Array/main2.js) |
+| [Check if One String Swap Can Make Strings Equal](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/) | Fácil | String, Array, Simulation | [main.js](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/main.js) |
 | [Check if a Parentheses String Can Be Valid](problems/medium/2116-Check-if-a-Parentheses-String-Can-Be-Valid/) | Medio | String, Parentheses, Greedy, Stack | [main.js](problems/medium/2116-Check-if-a-Parentheses-String-Can-Be-Valid/main.js) |
 
 ## 🧠 Enfoque para Resolver Problemas
@@ -78,11 +79,11 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Hash Map
 - ✅ Binary Search
 - ✅ String
-- ✅ String Maching
+- ✅ String Matching
 - ✅ Parentheses
 - ✅ Greedy
 - ✅ Stack
-
+- ✅ Simulation
 
 ---
 
