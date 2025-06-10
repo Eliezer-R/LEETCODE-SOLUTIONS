@@ -11,7 +11,6 @@
 - **Consistencia**: Resolver al menos 3 problemas por semana
 - **Crecimiento**: Avanzar de Fácil → Medio → Difícil sistemáticamente
 - **Documentación**: Explicar el proceso de pensamiento y enfoques
-- **Pruebas**: Incluir casos de prueba para cada solución
 
 
 ## 🏗️ Estructura del Repositorio
