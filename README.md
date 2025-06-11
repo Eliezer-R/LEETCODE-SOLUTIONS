@@ -4,14 +4,13 @@
 
 ## 📊 Resumen de Progreso
 
-![Problemas Resueltos](/images/problems1.png)
+![Problemas Resueltos](/images/problems.png)
 
 ## 🎯 Objetivos
 
 - **Consistencia**: Resolver al menos 3 problemas por semana
 - **Crecimiento**: Avanzar de Fácil → Medio → Difícil sistemáticamente
 - **Documentación**: Explicar el proceso de pensamiento y enfoques
-
 
 ## 🏗️ Estructura del Repositorio
 
@@ -31,7 +30,7 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-| [Two Sum](problems/easy/01-two-sum/) | Fácil | Array, Hash Map | [main.js](problems/easy/01-two-sum/main.js), [main2.js](problems/easy/01-two-sum/main2.js) |
+| [Maximum Difference Between Even and Odd Frequency I](problems/easy/3442-Maximum-Difference-Between-Even-and-Odd-Frequency-I/) | Fácil | Hash Map, String, Counting | [main.js](problems/easy/3442-Maximum-Difference-Between-Even-and-Odd-Frequency-I/main.js) |
 | [Search Insert Position](problems/easy/35-Search-Insert-Position/) | Fácil | Array, Binary Search | [main.js](problems/easy/35-Search-Insert-Position/main.js)|
 | [String Matching in an Array](problems/easy/1408-String-Matching-in-an-Array/) | Fácil | Array, String, String Matching | [main.js](problems/easy/1408-String-Matching-in-an-Array/main.js), [main2.js](problems/easy/1408-String-Matching-in-an-Array/main2.js) |
 | [Check if One String Swap Can Make Strings Equal](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/) | Fácil | String, Array, Simulation | [main.js](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/main.js) |
@@ -83,6 +82,7 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Greedy
 - ✅ Stack
 - ✅ Simulation
+- ✅ Counting
 
 ---
 
