@@ -86,4 +86,3 @@ node problems/easy/01-two-sum/main2.js
 
 ---
 
-*"El experto en cualquier cosa fue una vez un principiante que nunca se rindió."*
