@@ -4,7 +4,7 @@
 
 ## 📊 Resumen de Progreso
 
-![Problemas Resueltos](/images/problems.png)
+![Problemas Resueltos](/images/problems1.png)
 
 ## 🎯 Objetivos
 
@@ -31,6 +31,7 @@ problems/
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
 | [Maximum Difference Between Even and Odd Frequency I](problems/easy/3442-Maximum-Difference-Between-Even-and-Odd-Frequency-I/) | Fácil | Hash Map, String, Counting | [main.js](problems/easy/3442-Maximum-Difference-Between-Even-and-Odd-Frequency-I/main.js) |
+| [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [Search Insert Position](problems/easy/35-Search-Insert-Position/) | Fácil | Array, Binary Search | [main.js](problems/easy/35-Search-Insert-Position/main.js)|
 | [String Matching in an Array](problems/easy/1408-String-Matching-in-an-Array/) | Fácil | Array, String, String Matching | [main.js](problems/easy/1408-String-Matching-in-an-Array/main.js), [main2.js](problems/easy/1408-String-Matching-in-an-Array/main2.js) |
 | [Check if One String Swap Can Make Strings Equal](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/) | Fácil | String, Array, Simulation | [main.js](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/main.js) |
