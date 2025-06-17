@@ -87,6 +87,6 @@ console.log(maximumDifference([8, 2, 7, 9])) // valor -> 7
 
 ---
 
-**Tiempo invertido**: 5 minutos  
+**Tiempo invertido**: 2 minutos  
 **Intentos**: 1  
-**Dificultad percibida**:
+**Dificultad percibida**: Muy facil
