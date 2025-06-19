@@ -15,6 +15,7 @@
 ## 🏗️ Estructura del Repositorio
 
 ```
+
 problems/
 ├── easy/           # Problemas fáciles
 │   ├── 01-two-sum/
