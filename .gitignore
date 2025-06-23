@@ -18,7 +18,7 @@ yarn-error.log*
 .Trashes
 ehthumbs.db
 Thumbs.db
-/main
+/main.js
 
 *.tmp
 *.temp
