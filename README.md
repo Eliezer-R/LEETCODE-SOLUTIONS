@@ -4,7 +4,7 @@
 
 ## 📊 Resumen de Progreso
 
-![Problemas Resueltos](/images/problems1.png)
+![Problemas Resueltos](/images/problems.png)
 
 ## 🎯 Objetivos
 
@@ -31,6 +31,7 @@ problems/
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
 | [Maximum Difference Between Even and Odd Frequency I](problems/easy/3442-Maximum-Difference-Between-Even-and-Odd-Frequency-I/) | Fácil | Hash Map, String, Counting | [main.js](problems/easy/3442-Maximum-Difference-Between-Even-and-Odd-Frequency-I/main.js) |
+| [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [Search Insert Position](problems/easy/35-Search-Insert-Position/) | Fácil | Array, Binary Search | [main.js](problems/easy/35-Search-Insert-Position/main.js)|
 | [String Matching in an Array](problems/easy/1408-String-Matching-in-an-Array/) | Fácil | Array, String, String Matching | [main.js](problems/easy/1408-String-Matching-in-an-Array/main.js), [main2.js](problems/easy/1408-String-Matching-in-an-Array/main2.js) |
@@ -84,6 +85,5 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Stack
 - ✅ Simulation
 - ✅ Counting
-
----
+- ✅ Two
 
