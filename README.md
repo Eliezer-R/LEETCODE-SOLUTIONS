@@ -4,7 +4,7 @@
 
 ## 📊 Resumen de Progreso
 
-![Problemas Resueltos](/images/problems.png)
+![Problemas Resueltos](/images/result.png)
 
 ## 🎯 Objetivos
 
@@ -34,7 +34,7 @@ problems/
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [Search Insert Position](problems/easy/35-Search-Insert-Position/) | Fácil | Array, Binary Search | [main.js](problems/easy/35-Search-Insert-Position/main.js)|
-| [String Matching in an Array](problems/easy/1408-String-Matching-in-an-Array/) | Fácil | Array, String, String Matching | [main.js](problems/easy/1408-String-Matching-in-an-Array/main.js), [main2.js](problems/easy/1408-String-Matching-in-an-Array/main2.js) |
+| [58. Length of Last Word](problems/easy/58-Length-of-Last-Word/) | Fácil | String | [main.js](problems/easy/58-Length-of-Last-Word/main.js) |
 | [Check if One String Swap Can Make Strings Equal](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/) | Fácil | String, Array, Simulation | [main.js](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/main.js) |
 | [Check if a Parentheses String Can Be Valid](problems/medium/2116-Check-if-a-Parentheses-String-Can-Be-Valid/) | Medio | String, Parentheses, Greedy, Stack | [main.js](problems/medium/2116-Check-if-a-Parentheses-String-Can-Be-Valid/main.js) |
 
@@ -85,5 +85,5 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Stack
 - ✅ Simulation
 - ✅ Counting
-- ✅ Two
+- ✅ Two Pointers
 
