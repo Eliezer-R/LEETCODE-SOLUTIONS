@@ -158,9 +158,11 @@ console.log(merge3([1, 2, 3, 0, 0, 0], 3, [2, 5, 6], 3))
 
 ## 🎯 Aprendizajes Clave
 
+- Existen varias formas de fusionar arrays ordenados, pero el método de tres punteros es el más eficiente.
 - Usar tres punteros permite fusionar desde el final sin sobrescribir datos.
 - Si quedan elementos en `nums2`, se copian al inicio de `nums1`.
 - El enfoque es eficiente y directo para arrays ordenados.
+- Entender las diferencias de complejidad entre sort, insertion sort y el método óptimo ayuda a elegir la mejor solución según el caso. :) 
 
 ---
 
@@ -170,5 +172,6 @@ console.log(merge3([1, 2, 3, 0, 0, 0], 3, [2, 5, 6], 3))
 
 ---
 
-**Tiempo invertido**: 5 minutos  
-**Intentos**: 1
+**Tiempo invertido**: 38 minutos  
+**Intentos**: 3
+**Dificultad percibida**: Facil
