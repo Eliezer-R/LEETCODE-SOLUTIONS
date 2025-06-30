@@ -30,9 +30,13 @@ Debes fusionar `nums1` y `nums2` en un solo array ordenado en orden no decrecien
 
 ## 💭 Enfoque y Estrategia
 
-- **Objetivo**: Fusionar dos arrays ordenados en uno solo, manteniendo el orden.
-- **Restricción**: El resultado debe almacenarse en `nums1`.
-- **Salida**: `nums1` modificado, ordenado.
+Existen varias formas de fusionar dos arrays ordenados en uno solo, manteniendo el orden y almacenando el resultado en `nums1`:
+
+- **merge1**: Copia los elementos de `nums2` al final de `nums1` y luego ordena todo el array usando `sort`. Es simple pero menos eficiente.
+- **merge2**: Inserta los elementos de `nums2` uno a uno en `nums1` usando un algoritmo similar a insertion sort para mantener el orden. Es más eficiente que ordenar todo, pero aún puede ser lento para arrays grandes.
+- **merge3**: Utiliza tres punteros para recorrer ambos arrays desde el final, insertando los elementos más grandes al final de `nums1`. Este método es el más eficiente y evita sobrescribir datos importantes.
+
+**Recomendación:** Usar el método de tres punteros (`merge3`) para lograr una complejidad O(m + n) y espacio
 
 ---
 
@@ -147,7 +151,9 @@ console.log(merge3([1, 2, 3, 0, 0, 0], 3, [2, 5, 6], 3))
   - `merge2`: O((m + n)^2) por el uso de insertion sort en cada inserción.
   - `merge3`: O(m + n) por recorrer ambos arrays una sola vez desde el final.
 - **Complejidad espacial**: O(1) en las tres implementaciones, ya que la fusión se hace en el mismo array.
-
+- Rendimiento del merge3:
+- 
+![rendimiento](./public/rendimiento.png)
 ---
 
 ## 🎯 Aprendizajes Clave
