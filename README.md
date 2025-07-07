@@ -33,8 +33,8 @@ problems/
 | [Remove Element](problems/easy/27-remove-element/) | Fácil | Array, Two Pointers | [main.js](problems/easy/27-remove-element/main.js) |
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Best Time to Buy and Sell Stock](problems/easy/121-Best-Time-to-Buy-and-Sell-Stock/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/121-Best-Time-to-Buy-and-Sell-Stock/main.js) |
-| [118. Pascal's Triangle](problems/easy/118-Pascal's-Triangle/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/118-Pascal's-Triangle/main.js) |
-| [58. Length of Last Word](problems/easy/58-Length-of-Last-Word/) | Fácil | String | [main.js](problems/easy/58-Length-of-Last-Word/main.js) |
+| [ Pascal's Triangle](problems/easy/118-Pascal's-Triangle/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/118-Pascal's-Triangle/main.js) |
+| [ Length of Last Word](problems/easy/58-Length-of-Last-Word/) | Fácil | String | [main.js](problems/easy/58-Length-of-Last-Word/main.js) |
 | [Merge Sorted Array](problems/easy/88-Merge-Sorted-Array/) | Fácil | Array, Two Pointers, Sorting | [main.js](problems/easy/88-Merge-Sorted-Array/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [Check if One String Swap Can Make Strings Equal](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/) | Fácil | String, Array, Simulation | [main.js](problems/easy/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/main.js) |
