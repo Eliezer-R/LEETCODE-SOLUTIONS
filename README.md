@@ -1,5 +1,6 @@
 # 🚀 Soluciones de LeetCode en JavaScript
 
+
 > Un enfoque sistemático para resolver problemas algorítmicos, documentando mi progreso desde principiante.
 
 ## 📊 Resumen de Progreso
