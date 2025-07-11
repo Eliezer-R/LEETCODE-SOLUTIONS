@@ -14,6 +14,7 @@
 
 ## 🏗️ Estructura del Repositorio
 
+
 ```
 problems/
 ├── easy/           # Problemas fáciles
@@ -89,4 +90,3 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Two Pointers
 - ✅ Sorting
 - ✅ Dynamic Programming
-
