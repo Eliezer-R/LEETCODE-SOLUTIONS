@@ -14,7 +14,6 @@
 
 ## 🏗️ Estructura del Repositorio
 
-
 ```
 problems/
 ├── easy/           # Problemas fáciles
@@ -68,7 +67,6 @@ npm install
 node problems/easy/01-two-sum/main.js
 node problems/easy/01-two-sum/main2.js
 ```
-
 ## 💡 Aprendizajes Clave
 
 - Reconocimiento de patrones comunes en problemas
