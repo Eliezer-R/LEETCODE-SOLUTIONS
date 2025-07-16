@@ -2,7 +2,9 @@
 
 > Un enfoque sistemático para resolver problemas algorítmicos, documentando mi progreso desde principiante.
 
+
 ## 📊 Resumen de Progreso
+
 
 ![Problemas Resueltos](/images/resultad1.png)
 
