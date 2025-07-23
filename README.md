@@ -5,7 +5,7 @@
 
 ## 📊 Resumen de Progreso
 
-![Problemas Resueltos](/images/value.png)
+![Problemas Resueltos](/images/total.png)
 
 ## 🎯 Objetivos
 
@@ -39,7 +39,8 @@ problems/
 | [ Length of Last Word](problems/easy/58-Length-of-Last-Word/) | Fácil | String | [main.js](problems/easy/58-Length-of-Last-Word/main.js) |
 | [Merge Sorted Array](problems/easy/88-Merge-Sorted-Array/) | Fácil | Array, Two Pointers, Sorting | [main.js](problems/easy/88-Merge-Sorted-Array/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
-| [Plus One](problems/easy/66-Plus-One/) | Fácil |  Array, Math | [main.js](problems/easy/66-Plus-One/main.js) |
+| [ Valid Palindrome](problems/easy/125-Valid-Palindrome/) | Fácil | Two Pointers, String | [main.js](problems/easy/125-Valid-Palindrome/main.js) |
+| [Plus One](problems/easy/66-Plus-One/) | Fácil | Array, Math | [main.js](problems/easy/66-Plus-One/main.js) |
 
 ## 🧠 Enfoque para Resolver Problemas
 
