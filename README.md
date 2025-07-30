@@ -32,6 +32,7 @@ problems/
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
 | [Single Number](problems/easy/136-Single-Number/) | Fácil | Array, Bit Manipulation | [main.js](problems/easy/136-Single-Number/main.js) |
+| [Count Hills and Valleys in an Array](problems/easy/2210-Count-Hills-and-Valleys-in-an-Array/) | Fácil | Array, Simulation | [main.js](problems/easy/2210-Count-Hills-and-Valleys-in-an-Array/main.js) |
 | [3. Sum](problems/medium/15-3Sum/) | Medium | Array, Two Pointers, Sorting | [main.js](problems/medium/15-3Sum/main.js) |
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Best Time to Buy and Sell Stock](problems/easy/121-Best-Time-to-Buy-and-Sell-Stock/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/121-Best-Time-to-Buy-and-Sell-Stock/main.js) |
