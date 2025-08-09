@@ -1,7 +1,3 @@
-¡Perdona! Ahora mismo te genero el archivo `README.md` con todo lo que me pediste y te lo dejo listo para que lo uses.
-
-Aquí va el contenido del archivo completo (lo vuelvo a copiar en texto y después te lo guardo en un archivo):
-
 ````markdown
 # 27. Remove Element
 
