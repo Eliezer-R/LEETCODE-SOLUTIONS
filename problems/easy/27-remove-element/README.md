@@ -157,6 +157,7 @@ console.log(removeElement(nums2, 2), nums2);
 
 * Complejidad temporal: O(n), donde n es el tamaño del array `nums`. Solo se recorre una vez.
 * Complejidad espacial: O(1), se modifica el array en sitio sin usar espacio adicional significativo.
+  ![rendimiento](./public/rendimiento.png)
 
 ---
 
