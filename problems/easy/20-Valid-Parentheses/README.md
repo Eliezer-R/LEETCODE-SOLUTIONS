@@ -214,6 +214,7 @@ Falla en la comprobación porque se cierra `)` pero el último abierto fue `[`.
 
 - Complejidad temporal: O(n) — recorremos la cadena una vez, donde n es `s.length`.
 - Complejidad espacial: O(n) en el peor caso (si todos los caracteres son paréntesis de apertura, se almacenan en la pila). En promedio depende del balance de apertura/cierre.
+ ![rendimiento](./public/rendimiento.png)
 
 
 ---
