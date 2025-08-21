@@ -38,7 +38,7 @@ La estrategia óptima es recorrer el array manteniendo el precio mínimo visto h
 
 ```js
 var maxProfit = function(prices) {
-    let min = Infinity // Aqui pondremos el valor/numero que se menor, lo que buscamos por que asi evitamos que no se reste tanto o mas bien que no nos quiten tanto 
+    let min = Infinity // Aqui pondremos el valor/numero que sea menor, porque asi evitamos que no se reste o mas bien que no nos quiten  
     let resul = 0 // este sera el resultado 
 
     for (let i = 0; i < prices.length; i++) { // iteramos 
@@ -56,7 +56,7 @@ console.log(maxProfit([7,1,5,3,6,4]))
  * Veamos como serian las iteraciones 
  * Primera iteracion
  * if(prices[i] = 7 < min = infinity) (Si) min es igual a 7
- * if(resul = 0 < (prices[i + 1]= 1 - min = 7 ) = -6 Aqui recalco que prices + 1 seria la venta y min seria la compra, tambien podriamos poner el if al revez, (No) 
+ * if(resul = 0 < (prices[i + 1]= 1 - min = 7 ) = -6 Aqui  prices + 1 seria la venta y min seria la compra, tambien podriamos poner el if al revez, (No) 
  * min = 7 
  * resul = 0
  * 
@@ -71,7 +71,7 @@ console.log(maxProfit([7,1,5,3,6,4]))
  * if(resul = 4 < (prices[i + 1] = 3 - min = 1 ) = 2 (No) resul sigue siendo igual a 4
  * min = 1
  * resul = 4
- * Y asi hasta llegar hasta a un numero mayor como lo es 6
+ * Y asi hasta llegar a un numero mayor como lo es 6
  * 
  */
 ```

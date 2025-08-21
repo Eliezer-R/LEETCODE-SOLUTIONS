@@ -1,8 +1,4 @@
-¡Perdona! Ahora mismo te genero el archivo `README.md` con todo lo que me pediste y te lo dejo listo para que lo uses.
 
-Aquí va el contenido del archivo completo (lo vuelvo a copiar en texto y después te lo guardo en un archivo):
-
-````markdown
 # 27. Remove Element
 
 Dado un array de enteros `nums` y un entero `val`, elimina todas las ocurrencias de `val` en `nums` **in-place**. El orden de los elementos puede cambiar. Devuelve el número de elementos en `nums` que no son iguales a `val`.
@@ -17,11 +13,11 @@ Considera que el número de elementos en `nums` que no son iguales a `val` es `k
 - Los elementos más allá de la posición `k` no importan.
 - Retornar `k`.
 
----
+
 
 ## Código del juez personalizado
 
-```java
+
 int[] nums = [...]; // Array de entrada
 int val = ...;      // Valor a eliminar
 int[] expectedNums = [...]; // Respuesta esperada con longitud correcta.
@@ -34,7 +30,7 @@ sort(nums, 0, k); // Ordena los primeros k elementos de nums
 for (int i = 0; i < actualLength; i++) {
     assert nums[i] == expectedNums[i];
 }
-````
+
 
 Si todas las aserciones pasan, la solución será aceptada.
 
@@ -88,7 +84,7 @@ const removeElement = function (nums, val) {
 };
 ```
 
----
+
 
 ## 📌 Observaciones sobre el código
 
@@ -161,6 +157,7 @@ console.log(removeElement(nums2, 2), nums2);
 
 * Complejidad temporal: O(n), donde n es el tamaño del array `nums`. Solo se recorre una vez.
 * Complejidad espacial: O(1), se modifica el array en sitio sin usar espacio adicional significativo.
+  ![rendimiento](./public/rendimiento.png)
 
 ---
 
@@ -194,4 +191,4 @@ Array | Two Pointers | Easy | In-Place
 
 Fácil
 
-```
+
