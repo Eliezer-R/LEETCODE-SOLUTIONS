@@ -14,6 +14,7 @@
 
 ## 🏗️ Estructura del Repositorio
 
+
 ```
 problems/
 ├── easy/           # Problemas fáciles
@@ -35,7 +36,7 @@ problems/
 | [3. Sum](problems/medium/15-3Sum/) | Medium | Array, Two Pointers, Sorting | [main.js](problems/medium/15-3Sum/main.js) |
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Best Time to Buy and Sell Stock](problems/easy/121-Best-Time-to-Buy-and-Sell-Stock/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/121-Best-Time-to-Buy-and-Sell-Stock/main.js) |
-| [valid- parentheses](problems/easy/20-Valid-Parentheses/) | Fácil | String, Stack | [main.js](problems/easy/20-Valid-Parentheses/main.js) |
+| [Valid World](problems/easy/3136-Valid-Word/) | Fácil | String, Hash Table | [main.js](problems/easy/3136-Valid-Word/main.js) |
 | [ Length of Last Word](problems/easy/58-Length-of-Last-Word/) | Fácil | String | [main.js](problems/easy/58-Length-of-Last-Word/main.js) |
 | [Merge Sorted Array](problems/easy/88-Merge-Sorted-Array/) | Fácil | Array, Two Pointers, Sorting | [main.js](problems/easy/88-Merge-Sorted-Array/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
