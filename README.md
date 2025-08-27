@@ -4,6 +4,7 @@
 
 ## 📊 Resumen de Progreso
 
+
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
 | 🟢 Fácil   | 21                  |
