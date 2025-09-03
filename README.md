@@ -46,7 +46,7 @@ problems/
 | [169. Majority Element](problems/easy/169-Majority-Element/) | Fácil | Array, Hash Table, Divide and Conquer, Bit Manipulation | [main.js](problems/easy/169-Majority-Element/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [ Valid Palindrome](problems/easy/125-Valid-Palindrome/) | Fácil | Two Pointers, String | [main.js](problems/easy/125-Valid-Palindrome/main.js) |
-| [Plus One](problems/easy/66-Plus-One/) | Fácil | Array, Math | [main.js](problems/easy/66-Plus-One/main.js) |
+| [Contains Duplicate](problems/easy/217-Contains-Duplicate/) | Fácil | Array, Hash Table | [main.js](problems/easy/217-Contains-Duplicate/main.js) |
 
 ## 🧠 Enfoque para Resolver Problemas
 
