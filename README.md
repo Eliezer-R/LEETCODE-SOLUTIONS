@@ -6,10 +6,10 @@
 
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
-| 🟢 Fácil   | 21                  |
+| 🟢 Fácil   | 22                  |
 | 🟡 Medio   | 2                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **23**              |
+| **Total**  | **24**              |
 
 ## 🎯 Objetivos
 
@@ -40,13 +40,13 @@ problems/
 | [Count Hills and Valleys in an Array](problems/easy/2210-Count-Hills-and-Valleys-in-an-Array/) | Fácil | Array, Simulation | [main.js](problems/easy/2210-Count-Hills-and-Valleys-in-an-Array/main.js) |
 | [3. Sum](problems/medium/15-3Sum/) | Medium | Array, Two Pointers, Sorting | [main.js](problems/medium/15-3Sum/main.js) |
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
-| [Best Time to Buy and Sell Stock](problems/easy/121-Best-Time-to-Buy-and-Sell-Stock/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/121-Best-Time-to-Buy-and-Sell-Stock/main.js) |
 | [ Pascal's Triangle](problems/easy/118-Pascal's-Triangle/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/118-Pascal's-Triangle/main.js) |
 | [ Length of Last Word](problems/easy/58-Length-of-Last-Word/) | Fácil | String | [main.js](problems/easy/58-Length-of-Last-Word/main.js) |
 | [169. Majority Element](problems/easy/169-Majority-Element/) | Fácil | Array, Hash Table, Divide and Conquer, Bit Manipulation | [main.js](problems/easy/169-Majority-Element/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [ Valid Palindrome](problems/easy/125-Valid-Palindrome/) | Fácil | Two Pointers, String | [main.js](problems/easy/125-Valid-Palindrome/main.js) |
 | [Contains Duplicate](problems/easy/217-Contains-Duplicate/) | Fácil | Array, Hash Table | [main.js](problems/easy/217-Contains-Duplicate/main.js) |
+| [643. Maximum Average Subarray I](problems/easy/643-Maximum-Average-Subarray-I/) | Fácil | Array, Sliding Window | [main.js](problems/easy/643-Maximum-Average-Subarray-I/main.js) |
 
 ## 🧠 Enfoque para Resolver Problemas
 
@@ -101,3 +101,4 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Math
 - ✅ Bit Manipulation
 - ✅ Divide and Conquer
+- ✅ Sliding Window
