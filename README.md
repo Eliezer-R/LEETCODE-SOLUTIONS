@@ -6,10 +6,10 @@
 
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
-| 🟢 Fácil   | 22                  |
+| 🟢 Fácil   | 23                  |
 | 🟡 Medio   | 2                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **24**              |
+| **Total**  | **25**              |
 
 ## 🎯 Objetivos
 
@@ -41,11 +41,11 @@ problems/
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [ Pascal's Triangle](problems/easy/118-Pascal's-Triangle/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/118-Pascal's-Triangle/main.js) |
 | [ Length of Last Word](problems/easy/58-Length-of-Last-Word/) | Fácil | String | [main.js](problems/easy/58-Length-of-Last-Word/main.js) |
-| [169. Majority Element](problems/easy/169-Majority-Element/) | Fácil | Array, Hash Table, Divide and Conquer, Bit Manipulation | [main.js](problems/easy/169-Majority-Element/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [ Valid Palindrome](problems/easy/125-Valid-Palindrome/) | Fácil | Two Pointers, String | [main.js](problems/easy/125-Valid-Palindrome/main.js) |
 | [Contains Duplicate](problems/easy/217-Contains-Duplicate/) | Fácil | Array, Hash Table | [main.js](problems/easy/217-Contains-Duplicate/main.js) |
 | [643. Maximum Average Subarray I](problems/easy/643-Maximum-Average-Subarray-I/) | Fácil | Array, Sliding Window | [main.js](problems/easy/643-Maximum-Average-Subarray-I/main.js) |
+| [844. Backspace String Compare](problems/easy/844-Backspace-String-Compare/) | Fácil | String, Stack | [main.js](problems/easy/844-Backspace-String-Compare/main.js) |
 
 ## 🧠 Enfoque para Resolver Problemas
 
