@@ -6,10 +6,10 @@
 
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
-| 🟢 Fácil   | 23                  |
-| 🟡 Medio   | 2                   |
+| 🟢 Fácil   | 25                  |
+| 🟡 Medio   | 3                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **25**              |
+| **Total**  | **28**              |
 
 ## 🎯 Objetivos
 
@@ -35,17 +35,17 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-| [Single Number](problems/easy/136-Single-Number/) | Fácil | Array, Bit Manipulation | [main.js](problems/easy/136-Single-Number/main.js) |
 | [Count Hills and Valleys in an Array](problems/easy/2210-Count-Hills-and-Valleys-in-an-Array/) | Fácil | Array, Simulation | [main.js](problems/easy/2210-Count-Hills-and-Valleys-in-an-Array/main.js) |
 | [3. Sum](problems/medium/15-3Sum/) | Medium | Array, Two Pointers, Sorting | [main.js](problems/medium/15-3Sum/main.js) |
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
-| [ Pascal's Triangle](problems/easy/118-Pascal's-Triangle/) | Fácil | Array, Dynamic Programming | [main.js](problems/easy/118-Pascal's-Triangle/main.js) |
-| [ Length of Last Word](problems/easy/58-Length-of-Last-Word/) | Fácil | String | [main.js](problems/easy/58-Length-of-Last-Word/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [ Valid Palindrome](problems/easy/125-Valid-Palindrome/) | Fácil | Two Pointers, String | [main.js](problems/easy/125-Valid-Palindrome/main.js) |
 | [Contains Duplicate](problems/easy/217-Contains-Duplicate/) | Fácil | Array, Hash Table | [main.js](problems/easy/217-Contains-Duplicate/main.js) |
 | [643. Maximum Average Subarray I](problems/easy/643-Maximum-Average-Subarray-I/) | Fácil | Array, Sliding Window | [main.js](problems/easy/643-Maximum-Average-Subarray-I/main.js) |
 | [844. Backspace String Compare](problems/easy/844-Backspace-String-Compare/) | Fácil | String, Stack | [main.js](problems/easy/844-Backspace-String-Compare/main.js) |
+| [Squares of a Sorted Array](problems/easy/977-Squares-of-a-Sorted-Array/) | Fácil | Array, Two Pointers, Sorting | [main.js](problems/easy/977-Squares-of-a-Sorted-Array/main.js) |
+| [Minimum Size Subarray Sum](problems/medium/209-Minimum-Size-Subarray-Sum/) | Medio | Array, Binary Search, Sliding Window, Prefix Sum | [main.js](problems/medium/209-Minimum-Size-Subarray-Sum/main.js) |
+| [Find Most Frequent Vowel and Consonant](problems/easy/3541-Find-Most-Frequent-Vowel-and-Consonant/) | Fácil | String, Hash Table, Counting | [main.js](problems/easy/3541-Find-Most-Frequent-Vowel-and-Consonant/main.js) |
 
 ## 🧠 Enfoque para Resolver Problemas
 
