@@ -6,10 +6,10 @@
 
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
-| 🟢 Fácil   | 25                  |
-| 🟡 Medio   | 3                   |
+| 🟢 Fácil   | 26                  |
+| 🟡 Medio   | 4                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **28**              |
+| **Total**  | **30**              |
 
 ## 🎯 Objetivos
 
@@ -35,8 +35,8 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-| [Count Hills and Valleys in an Array](problems/easy/2210-Count-Hills-and-Valleys-in-an-Array/) | Fácil | Array, Simulation | [main.js](problems/easy/2210-Count-Hills-and-Valleys-in-an-Array/main.js) |
-| [3. Sum](problems/medium/15-3Sum/) | Medium | Array, Two Pointers, Sorting | [main.js](problems/medium/15-3Sum/main.js) |
+| [Running Sum of 1D Array](problems/easy/1480-Running-Sum-of-1D-Array/) | Fácil | Array, Prefix Sum | [main.js](problems/easy/1480-Running-Sum-of-1D-Array/main.js) |
+| [Vowel Spellchecker](problems/medium/966-Vowel-Spellchecker/) | Medio | Array, Hash Table, String | [main.js](problems/medium/966-Vowel-Spellchecker/main.js) |
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
 | [ Valid Palindrome](problems/easy/125-Valid-Palindrome/) | Fácil | Two Pointers, String | [main.js](problems/easy/125-Valid-Palindrome/main.js) |
