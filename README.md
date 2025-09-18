@@ -6,10 +6,10 @@
 
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
-| 🟢 Fácil   | 26                  |
+| 🟢 Fácil   | 28                  |
 | 🟡 Medio   | 4                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **30**              |
+| **Total**  | **32**              |
 
 ## 🎯 Objetivos
 
@@ -39,9 +39,8 @@ problems/
 | [Running Sum of 1D Array](problems/easy/1480-Running-Sum-of-1D-Array/) | Fácil | Array, Prefix Sum | [main.js](problems/easy/1480-Running-Sum-of-1D-Array/main.js) |
 | [Vowel Spellchecker](problems/medium/966-Vowel-Spellchecker/) | Medio | Array, Hash Table, String | [main.js](problems/medium/966-Vowel-Spellchecker/main.js) |
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
-| [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
-| [ Valid Palindrome](problems/easy/125-Valid-Palindrome/) | Fácil | Two Pointers, String | [main.js](problems/easy/125-Valid-Palindrome/main.js) |
-| [Contains Duplicate](problems/easy/217-Contains-Duplicate/) | Fácil | Array, Hash Table | [main.js](problems/easy/217-Contains-Duplicate/main.js) |
+| [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
+| [Flipping an Image](problems/easy/832-Flipping-an-Image/) | Fácil | Array, Two Pointers, Matrix, Simulation | [main.js](problems/easy/832-Flipping-an-Image/main.js) |
 | [643. Maximum Average Subarray I](problems/easy/643-Maximum-Average-Subarray-I/) | Fácil | Array, Sliding Window | [main.js](problems/easy/643-Maximum-Average-Subarray-I/main.js) |
 | [844. Backspace String Compare](problems/easy/844-Backspace-String-Compare/) | Fácil | String, Stack | [main.js](problems/easy/844-Backspace-String-Compare/main.js) |
 | [Squares of a Sorted Array](problems/easy/977-Squares-of-a-Sorted-Array/) | Fácil | Array, Two Pointers, Sorting | [main.js](problems/easy/977-Squares-of-a-Sorted-Array/main.js) |
