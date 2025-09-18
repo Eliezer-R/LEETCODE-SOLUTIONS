@@ -41,6 +41,7 @@ problems/
 | [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
 | [Flipping an Image](problems/easy/832-Flipping-an-Image/) | Fácil | Array, Two Pointers, Matrix, Simulation | [main.js](problems/easy/832-Flipping-an-Image/main.js) |
+| [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
 | [643. Maximum Average Subarray I](problems/easy/643-Maximum-Average-Subarray-I/) | Fácil | Array, Sliding Window | [main.js](problems/easy/643-Maximum-Average-Subarray-I/main.js) |
 | [844. Backspace String Compare](problems/easy/844-Backspace-String-Compare/) | Fácil | String, Stack | [main.js](problems/easy/844-Backspace-String-Compare/main.js) |
 | [Squares of a Sorted Array](problems/easy/977-Squares-of-a-Sorted-Array/) | Fácil | Array, Two Pointers, Sorting | [main.js](problems/easy/977-Squares-of-a-Sorted-Array/main.js) |
