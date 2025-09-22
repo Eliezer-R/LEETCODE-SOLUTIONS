@@ -6,10 +6,10 @@
 
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
-| 🟢 Fácil   | 28                  |
+| 🟢 Fácil   | 32                  |
 | 🟡 Medio   | 4                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **32**              |
+| **Total**  | **36**              |
 
 ## 🎯 Objetivos
 
@@ -43,10 +43,11 @@ problems/
 | [Flipping an Image](problems/easy/832-Flipping-an-Image/) | Fácil | Array, Two Pointers, Matrix, Simulation | [main.js](problems/easy/832-Flipping-an-Image/main.js) |
 | [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
 | [643. Maximum Average Subarray I](problems/easy/643-Maximum-Average-Subarray-I/) | Fácil | Array, Sliding Window | [main.js](problems/easy/643-Maximum-Average-Subarray-I/main.js) |
-| [844. Backspace String Compare](problems/easy/844-Backspace-String-Compare/) | Fácil | String, Stack | [main.js](problems/easy/844-Backspace-String-Compare/main.js) |
-| [Squares of a Sorted Array](problems/easy/977-Squares-of-a-Sorted-Array/) | Fácil | Array, Two Pointers, Sorting | [main.js](problems/easy/977-Squares-of-a-Sorted-Array/main.js) |
-| [Minimum Size Subarray Sum](problems/medium/209-Minimum-Size-Subarray-Sum/) | Medio | Array, Binary Search, Sliding Window, Prefix Sum | [main.js](problems/medium/209-Minimum-Size-Subarray-Sum/main.js) |
-| [Find Most Frequent Vowel and Consonant](problems/easy/3541-Find-Most-Frequent-Vowel-and-Consonant/) | Fácil | String, Hash Table, Counting | [main.js](problems/easy/3541-Find-Most-Frequent-Vowel-and-Consonant/main.js) |
+| [3005. Count Elements With Maximum Frequency](problems/easy/3005-Count-Elements-With-Maximum-Frequency/) | Fácil | Array, Hash Table, Counting | [main.js](problems/easy/3005-Count-Elements-With-Maximum-Frequency/main.js) |
+| [1700. Number of Students Unable to Eat Lunch](problems/easy/1700-Number-of-Students-Unable-to-Eat-Lunch/) | Fácil | Array, Queue, Simulation | [main.js](problems/easy/1700-Number-of-Students-Unable-to-Eat-Lunch/main.js) |
+| [1021. Remove Outermost Parentheses](problems/easy/1021-Remove-Outermost-Parentheses/) | Fácil | String, Stack | [main.js](problems/easy/1021-Remove-Outermost-Parentheses/main.js) |
+| [206. Reverse Linked List](problems/easy/206-Reverse-Linked-List/) | Fácil | Linked List, Two Pointers | [main.js](problems/easy/206-Reverse-Linked-List/main.js) |
+
 
 ## 🧠 Enfoque para Resolver Problemas
 
@@ -102,3 +103,5 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Bit Manipulation
 - ✅ Divide and Conquer
 - ✅ Sliding Window
+- ✅ Queue
+- ✅ Linked List
