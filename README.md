@@ -7,9 +7,9 @@
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
 | 🟢 Fácil   | 32                  |
-| 🟡 Medio   | 4                   |
+| 🟡 Medio   | 7                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **36**              |
+| **Total**  | **39**              |
 
 ## 🎯 Objetivos
 
@@ -37,9 +37,9 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-| [Running Sum of 1D Array](problems/easy/1480-Running-Sum-of-1D-Array/) | Fácil | Array, Prefix Sum | [main.js](problems/easy/1480-Running-Sum-of-1D-Array/main.js) |
-| [Vowel Spellchecker](problems/medium/966-Vowel-Spellchecker/) | Medio | Array, Hash Table, String | [main.js](problems/medium/966-Vowel-Spellchecker/main.js) |
-| [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
+| [Compare Version Numbers](problems/medium/165-Compare-Version-Numbers/) | Medio | String, Two Pointers | [main.js](problems/medium/165-Compare-Version-Numbers/main.js) |
+| [Fraction to Recurring Decimal](problems/medium/166-Fraction-to-Recurring-Decimal/) | Medio | Hash Table, Math, String | [main.js](problems/medium/166-Fraction-to-Recurring-Decimal/main.js) |
+| [Triangle](problems/medium/120-Triangle/) | Medio | Array, Dynamic Programming | [main.js](problems/medium/120-Triangle/main.js) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
 | [Flipping an Image](problems/easy/832-Flipping-an-Image/) | Fácil | Array, Two Pointers, Matrix, Simulation | [main.js](problems/easy/832-Flipping-an-Image/main.js) |
 | [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
