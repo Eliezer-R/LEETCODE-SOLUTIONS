@@ -20,6 +20,7 @@
 
 ## 🏗️ Estructura del Repositorio
 
+
 ```
 problems/
 ├── easy/           # Problemas fáciles
