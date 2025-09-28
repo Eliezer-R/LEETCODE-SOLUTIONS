@@ -6,10 +6,10 @@
 
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
-| 🟢 Fácil   | 32                  |
-| 🟡 Medio   | 7                   |
+| 🟢 Fácil   | 34                  |
+| 🟡 Medio   | 8                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **39**              |
+| **Total**  | **42**              |
 
 ## 🎯 Objetivos
 
@@ -45,9 +45,9 @@ problems/
 | [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
 | [643. Maximum Average Subarray I](problems/easy/643-Maximum-Average-Subarray-I/) | Fácil | Array, Sliding Window | [main.js](problems/easy/643-Maximum-Average-Subarray-I/main.js) |
 | [3005. Count Elements With Maximum Frequency](problems/easy/3005-Count-Elements-With-Maximum-Frequency/) | Fácil | Array, Hash Table, Counting | [main.js](problems/easy/3005-Count-Elements-With-Maximum-Frequency/main.js) |
-| [1700. Number of Students Unable to Eat Lunch](problems/easy/1700-Number-of-Students-Unable-to-Eat-Lunch/) | Fácil | Array, Queue, Simulation | [main.js](problems/easy/1700-Number-of-Students-Unable-to-Eat-Lunch/main.js) |
-| [1021. Remove Outermost Parentheses](problems/easy/1021-Remove-Outermost-Parentheses/) | Fácil | String, Stack | [main.js](problems/easy/1021-Remove-Outermost-Parentheses/main.js) |
-| [206. Reverse Linked List](problems/easy/206-Reverse-Linked-List/) | Fácil | Linked List, Two Pointers | [main.js](problems/easy/206-Reverse-Linked-List/main.js) |
+| [Largest Triangle Area](problems/easy/812-Largest-Triangle-Area/) | Fácil | Array, Math, Geometry | [main.js](problems/easy/812-Largest-Triangle-Area/main.js) |
+| [Valid Triangle Number](problems/medium/611-Valid-Triangle-Number/) | Medio | Array, Two Pointers, Binary Search, Greedy, Sorting | [main.js](problems/medium/611-Valid-Triangle-Number/main.js) |
+| [Largest Perimeter Triangle](problems/easy/976-Largest-Perimeter-Triangle/) | Fácil | Array, Math, Greedy, Sorting | [main.js](problems/easy/976-Largest-Perimeter-Triangle/main.js) |
 
 
 ## 🧠 Enfoque para Resolver Problemas
@@ -106,3 +106,4 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Sliding Window
 - ✅ Queue
 - ✅ Linked List
+- ✅ Geometry
