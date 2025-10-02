@@ -231,6 +231,6 @@ Este problema es similar al **Triángulo de Pascal**, pero con diferencias:
 
 ---
 
-**Tiempo invertido**: 40 minutos  
-**Intentos**: 4  
+**Tiempo invertido**: 10 minutos  
+**Intentos**: 2  
 **Dificultad percibida**: Medium
