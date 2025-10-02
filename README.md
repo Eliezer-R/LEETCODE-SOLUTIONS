@@ -6,10 +6,10 @@
 
 | Dificultad | Ejercicios Resueltos |
 |------------|---------------------|
-| 🟢 Fácil   | 34                  |
-| 🟡 Medio   | 8                   |
+| 🟢 Fácil   | 35                 |
+| 🟡 Medio   | 10                   |
 | 🔴 Difícil | 0                   |
-| **Total**  | **42**              |
+| **Total**  | **45**              |
 
 ## 🎯 Objetivos
 
@@ -42,9 +42,9 @@ problems/
 | [Triangle](problems/medium/120-Triangle/) | Medio | Array, Dynamic Programming | [main.js](problems/medium/120-Triangle/main.js) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
 | [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
 | [Flipping an Image](problems/easy/832-Flipping-an-Image/) | Fácil | Array, Two Pointers, Matrix, Simulation | [main.js](problems/easy/832-Flipping-an-Image/main.js) |
-| [Fibonacci Number](problems/easy/509-Fibonacci-Number/) | Fácil | Math, Dynamic Programming, Recursion | [main.js](problems/easy/509-Fibonacci-Number/main.js) |
-| [643. Maximum Average Subarray I](problems/easy/643-Maximum-Average-Subarray-I/) | Fácil | Array, Sliding Window | [main.js](problems/easy/643-Maximum-Average-Subarray-I/main.js) |
-| [3005. Count Elements With Maximum Frequency](problems/easy/3005-Count-Elements-With-Maximum-Frequency/) | Fácil | Array, Hash Table, Counting | [main.js](problems/easy/3005-Count-Elements-With-Maximum-Frequency/main.js) |
+| [Water Bottles](problems/easy/1518-Water-Bottles/) | Fácil | Math, Simulation | [main.js](problems/easy/1518-Water-Bottles/main.js) |
+| [Find Triangular Sum of an Array](problems/medium/2221-Find-Triangular-Sum-of-an-Array/) | Medio | Array, Math, Simulation | [main.js](problems/medium/2221-Find-Triangular-Sum-of-an-Array/main.js) |
+| [Water Bottles II](problems/medium/3100-Water-Bottles-II/) | Medio | Math, Simulation | [main.js](problems/medium/3100-Water-Bottles-II/main.js) |
 | [Largest Triangle Area](problems/easy/812-Largest-Triangle-Area/) | Fácil | Array, Math, Geometry | [main.js](problems/easy/812-Largest-Triangle-Area/main.js) |
 | [Valid Triangle Number](problems/medium/611-Valid-Triangle-Number/) | Medio | Array, Two Pointers, Binary Search, Greedy, Sorting | [main.js](problems/medium/611-Valid-Triangle-Number/main.js) |
 | [Largest Perimeter Triangle](problems/easy/976-Largest-Perimeter-Triangle/) | Fácil | Array, Math, Greedy, Sorting | [main.js](problems/easy/976-Largest-Perimeter-Triangle/main.js) |
