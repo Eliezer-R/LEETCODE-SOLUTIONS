@@ -10,7 +10,7 @@ Dado que el proceso de preparación es delicado, una poción debe ser pasada al 
 
 Retorna el **tiempo mínimo** necesario para preparar todas las pociones.
 
-**Dificultad:** Hard
+**Dificultad:** Medium
 
 ---
 
