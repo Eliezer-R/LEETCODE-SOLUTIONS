@@ -211,10 +211,10 @@ Este problema es una variante de **Job Shop Scheduling** donde:
 
 ## 🏷️ Tags
 
-`Array` `Dynamic Programming` `Scheduling` `Hard`
+`Array` `Dynamic Programming` `Scheduling` `Medium`
 
 ---
 
 **Tiempo invertido**: 2h  
-**Intentos**: Multiple  
-**Dificultad percibida**: Hard
+**Intentos**: 6  
+**Dificultad percibida**: Hard-medium
