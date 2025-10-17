@@ -4,12 +4,11 @@
 
 ## 📊 Resumen de Progreso
 
-| Dificultad | Ejercicios Resueltos |
-|------------|---------------------|
-| 🟢 Fácil   | 35                 |
-| 🟡 Medio   | 14                   |
-| 🔴 Difícil | 0                   |
-| **Total**  | **49**              |
+<p align="center">
+  <a href="https://leetcode.com/Eliezer-R/">
+    <img src="https://leetcard.jacoblin.cool/Eliezer-R?theme=dark&font=Nunito&ext=heatmap" width="420" />
+  </a>
+</p>
 
 ## 🎯 Objetivos
 
@@ -44,8 +43,8 @@ problems/
 | [Container With Most Water](problems/medium/11-Container-With-Most-Water/) | Medio | Array, Two Pointers, Greedy | [main.js](problems/medium/11-Container-With-Most-Water/main.js) | [main.js](problems/medium/2221-Find-Triangular-Sum-of-an-Array/main.js) |
 | [Water Bottles II](problems/medium/3100-Water-Bottles-II/) | Medio | Math, Simulation | [main.js](problems/medium/3100-Water-Bottles-II/main.js) |
 | [Largest Triangle Area](problems/easy/812-Largest-Triangle-Area/) | Fácil | Array, Math, Geometry | [main.js](problems/easy/812-Largest-Triangle-Area/main.js) |
-| [Valid Triangle Number](problems/medium/611-Valid-Triangle-Number/) | Medio | Array, Two Pointers, Binary Search, Greedy, Sorting | [main.js](problems/medium/611-Valid-Triangle-Number/main.js) |
-| [Largest Perimeter Triangle](problems/easy/976-Largest-Perimeter-Triangle/) | Fácil | Array, Math, Greedy, Sorting | [main.js](problems/easy/976-Largest-Perimeter-Triangle/main.js) |
+| [Smallest Missing Non-negative Integer After Operations](problems/medium/2598-Smallest-Missing-Non-negative-Integer-After-Operations/) | Medio | Array, Hash Table, Math, Greedy | [main.js](problems/medium/2598-Smallest-Missing-Non-negative-Integer-After-Operations/main.js) |
+| [Adjacent Increasing Subarrays Detection II](problems/medium/3350-Adjacent-Increasing-Subarrays-Detection-II/) | Medio | Array, Two Pointers, Sliding Window | [main.js](problems/medium/3350-Adjacent-Increasing-Subarrays-Detection-II/main.js) |
 
 
 ## 🧠 Enfoque para Resolver Problemas
