@@ -138,7 +138,7 @@ console.log(maximumTotalDamage([7,1,6,6])) // 13
   - DP con búsqueda lineal hacia atrás: O(n²) en peor caso
   - Puede optimizarse a O(n log n) con búsqueda binaria
 - **Complejidad espacial**: O(n), para el Map de frecuencias y el array dp.
-
+ ![rendimiento](./public/rendimiento.png)
 ---
 
 ## 🎯 Visualización del DP
