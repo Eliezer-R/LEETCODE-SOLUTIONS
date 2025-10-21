@@ -34,17 +34,20 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
+| [Final Value of Variable After Performing Operations](problems/easy/2011-Final-Value-of-Variable-After-Performing-Operations/) | Fácil | Array, String, Simulation | [main.js](problems/easy/2011-Final-Value-of-Variable-After-Performing-Operations/main.js) |
+| [Lexicographically Smallest String After Applying Operations](problems/medium/1625-Lexicographically-Smallest-String-After-Applying-Operations/) | Medio | String, BFS, Hash Table | [main.js](problems/medium/1625-Lexicographically-Smallest-String-After-Applying-Operations/main.js) |
+| [Maximum Number of Distinct Elements After Operations](problems/medium/3397-Maximum-Number-of-Distinct-Elements-After-Operations/) | Medio | Array, Greedy, Sorting | [main.js](problems/medium/3397-Maximum-Number-of-Distinct-Elements-After-Operations/main.js) |
+| [Adjacent Increasing Subarrays Detection I](problems/medium/3349-Adjacent-Increasing-Subarrays-Detection-I/) | Medio | Array, Sliding Window, Two Pointers | [main.js](problems/medium/3349-Adjacent-Increasing-Subarrays-Detection-I/main.js) |
+| [Find Resultant Array After Removing Anagrams](problems/easy/2273-Find-Resultant-Array-After-Removing-Anagrams/) | Fácil | Array, String, Hash Table, Sorting | [main.js](problems/easy/2273-Find-Resultant-Array-After-Removing-Anagrams/main.js) |
+| [Maximum Total Damage With Spell Casting](problems/medium/3186-Maximum-Total-Damage-With-Spell-Casting/) | Medio | Array, Dynamic Programming, Hash Table, Sorting | [main.js](problems/medium/3186-Maximum-Total-Damage-With-Spell-Casting/main.js) |
 | [Compare Version Numbers](problems/medium/165-Compare-Version-Numbers/) | Medio | String, Two Pointers | [main.js](problems/medium/165-Compare-Version-Numbers/main.js) |
 | [Fraction to Recurring Decimal](problems/medium/166-Fraction-to-Recurring-Decimal/) | Medio | Hash Table, Math, String | [main.js](problems/medium/166-Fraction-to-Recurring-Decimal/main.js) |
-| [Triangle](problems/medium/120-Triangle/) | Medio | Array, Dynamic Programming | [main.js](problems/medium/120-Triangle/main.js) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
-| [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [Taking Maximum Energy From the Mystic Dungeon](problems/medium/3147-Taking-Maximum-Energy-From-the-Mystic-Dungeon/) | Medio | Array, Dynamic Programming | [main.js](problems/medium/3147-Taking-Maximum-Energy-From-the-Mystic-Dungeon/main.js) |
+| [Triangle](problems/medium/120-Triangle/) | Medio | Array, Dynamic Programming | [main.js](problems/medium/120-Triangle/main.js) |
+| [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
+| [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
+| [Taking Maximum Energy From the Mystic Dungeon](problems/medium/3147-Taking-Maximum-Energy-From-the-Mystic-Dungeon/) | Medio | Array, Dynamic Programming | [main.js](problems/medium/3147-Taking-Maximum-Energy-From-the-Mystic-Dungeon/main.js) |
 | [Find the Minimum Amount of Time to Brew Potions](problems/medium/3494-Find-the-Minimum-Amount-of-Time-to-Brew-Potions/) | Medio | Array, Dynamic Programming, Scheduling | [main.js](problems/medium/3494-Find-the-Minimum-Amount-of-Time-to-Brew-Potions/main.js) |
-| [Successful Pairs of Spells and Potions](problems/medium/2300-Successful-Pairs-of-Spells-and-Potions/) | Medio | Array, Two Pointers, Binary Search, Sorting | [main.js](problems/medium/2300-Successful-Pairs-of-Spells-and-Potions/main.js) |
-| [Container With Most Water](problems/medium/11-Container-With-Most-Water/) | Medio | Array, Two Pointers, Greedy | [main.js](problems/medium/11-Container-With-Most-Water/main.js) | [main.js](problems/medium/2221-Find-Triangular-Sum-of-an-Array/main.js) |
-| [Water Bottles II](problems/medium/3100-Water-Bottles-II/) | Medio | Math, Simulation | [main.js](problems/medium/3100-Water-Bottles-II/main.js) |
-| [Largest Triangle Area](problems/easy/812-Largest-Triangle-Area/) | Fácil | Array, Math, Geometry | [main.js](problems/easy/812-Largest-Triangle-Area/main.js) |
-| [Smallest Missing Non-negative Integer After Operations](problems/medium/2598-Smallest-Missing-Non-negative-Integer-After-Operations/) | Medio | Array, Hash Table, Math, Greedy | [main.js](problems/medium/2598-Smallest-Missing-Non-negative-Integer-After-Operations/main.js) |
-| [Adjacent Increasing Subarrays Detection II](problems/medium/3350-Adjacent-Increasing-Subarrays-Detection-II/) | Medio | Array, Two Pointers, Sliding Window | [main.js](problems/medium/3350-Adjacent-Increasing-Subarrays-Detection-II/main.js) |
+
 
 
 ## 🧠 Enfoque para Resolver Problemas
@@ -104,3 +107,4 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Queue
 - ✅ Linked List
 - ✅ Geometry
+- ✅ Scheduling
