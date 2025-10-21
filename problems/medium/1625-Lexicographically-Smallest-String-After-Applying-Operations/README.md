@@ -158,9 +158,8 @@ Encontrar "2050" (mínimo)
 `String` `BFS` `Hash Table` `Medium`
 
 ---
----
+
 
 **Tiempo invertido**: 40m  
 **Intentos**: 2
 **Dificultad percibida**: Media
----
