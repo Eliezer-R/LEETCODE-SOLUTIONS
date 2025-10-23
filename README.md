@@ -37,7 +37,7 @@ problems/
 | [Final Value of Variable After Performing Operations](problems/easy/2011-Final-Value-of-Variable-After-Performing-Operations/) | Fácil | Array, String, Simulation | [main.js](problems/easy/2011-Final-Value-of-Variable-After-Performing-Operations/main.js) |
 | [Lexicographically Smallest String After Applying Operations](problems/medium/1625-Lexicographically-Smallest-String-After-Applying-Operations/) | Medio | String, BFS, Hash Table | [main.js](problems/medium/1625-Lexicographically-Smallest-String-After-Applying-Operations/main.js) |
 | [Maximum Number of Distinct Elements After Operations](problems/medium/3397-Maximum-Number-of-Distinct-Elements-After-Operations/) | Medio | Array, Greedy, Sorting | [main.js](problems/medium/3397-Maximum-Number-of-Distinct-Elements-After-Operations/main.js) |
-| [Adjacent Increasing Subarrays Detection I](problems/medium/3349-Adjacent-Increasing-Subarrays-Detection-I/) | Medio | Array, Sliding Window, Two Pointers | [main.js](problems/medium/3349-Adjacent-Increasing-Subarrays-Detection-I/main.js) |
+| [Adjacent Increasing Subarrays Detection I](problems/easy/3349-Adjacent-Increasing-Subarrays-Detection-I/) | Medio | Array, Sliding Window, Two Pointers | [main.js](problems/easy/3349-Adjacent-Increasing-Subarrays-Detection-I/main.js) |
 | [Find Resultant Array After Removing Anagrams](problems/easy/2273-Find-Resultant-Array-After-Removing-Anagrams/) | Fácil | Array, String, Hash Table, Sorting | [main.js](problems/easy/2273-Find-Resultant-Array-After-Removing-Anagrams/main.js) |
 | [Maximum Total Damage With Spell Casting](problems/medium/3186-Maximum-Total-Damage-With-Spell-Casting/) | Medio | Array, Dynamic Programming, Hash Table, Sorting | [main.js](problems/medium/3186-Maximum-Total-Damage-With-Spell-Casting/main.js) |
 | [Compare Version Numbers](problems/medium/165-Compare-Version-Numbers/) | Medio | String, Two Pointers | [main.js](problems/medium/165-Compare-Version-Numbers/main.js) |
@@ -108,7 +108,10 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Linked List
 - ✅ Geometry
 - ✅ Scheduling
+<<<<<<< HEAD
 - ✅ BFS
 - ✅ Prefix Sum
 - ✅ Memoization
 - ✅ Heap (Priority Queue)
+=======
+>>>>>>> 805810565c46a4a04998e3869ff1591379d5e0a9
