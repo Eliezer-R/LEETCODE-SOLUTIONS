@@ -42,11 +42,11 @@ problems/
 | [Maximum Total Damage With Spell Casting](problems/medium/3186-Maximum-Total-Damage-With-Spell-Casting/) | Medio | Array, Dynamic Programming, Hash Table, Sorting | [main.js](problems/medium/3186-Maximum-Total-Damage-With-Spell-Casting/main.js) |
 | [Compare Version Numbers](problems/medium/165-Compare-Version-Numbers/) | Medio | String, Two Pointers | [main.js](problems/medium/165-Compare-Version-Numbers/main.js) |
 | [Fraction to Recurring Decimal](problems/medium/166-Fraction-to-Recurring-Decimal/) | Medio | Hash Table, Math, String | [main.js](problems/medium/166-Fraction-to-Recurring-Decimal/main.js) |
-| [Triangle](problems/medium/120-Triangle/) | Medio | Array, Dynamic Programming | [main.js](problems/medium/120-Triangle/main.js) |
-| [Find the Index of the First Occurrence in a String](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/) | Fácil | Two Pointers, String, String Matching | [main.js](problems/easy/28-Find-the-Index-of-the-First-Occurrence-in-a-String/main.js) |
-| [Maximum Difference Between Increasing Elements](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/) | Fácil | Array | [main.js](problems/easy/2016-Maximum-Difference-Between-Increasing-Elements/main.js) |
-| [Taking Maximum Energy From the Mystic Dungeon](problems/medium/3147-Taking-Maximum-Energy-From-the-Mystic-Dungeon/) | Medio | Array, Dynamic Programming | [main.js](problems/medium/3147-Taking-Maximum-Energy-From-the-Mystic-Dungeon/main.js) |
-| [Find the Minimum Amount of Time to Brew Potions](problems/medium/3494-Find-the-Minimum-Amount-of-Time-to-Brew-Potions/) | Medio | Array, Dynamic Programming, Scheduling | [main.js](problems/medium/3494-Find-the-Minimum-Amount-of-Time-to-Brew-Potions/main.js) |
+| [Check If Digits Are Equal in String After Operations I](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/) | Fácil | String, Math, Simulation | [main.js](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/main.js) |
+| [Maximum Frequency of an Element After Performing Operations II](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/) | Difícil | Array, Binary Search, Sliding Window, Sorting, Hash Table | [main.js](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/main.js) |
+| [Maximum Frequency of an Element After Performing Operations I](problems/medium/3346-Maximum-Frequency-of-an-Element-After-Performing-Operations-I/) | Medio | Array, Hash Table, Prefix Sum | [main.js](problems/medium/3346-Maximum-Frequency-of-an-Element-After-Performing-Operations-I/main.js) |
+| [Maximize the Number of Partitions After Operations](problems/hard/3003-Maximize-the-Number-of-Partitions-After-Operations/) | Difícil | String, Dynamic Programming, Bit Manipulation, Greedy, Memoization | [main.js](problems/hard/3003-Maximize-the-Number-of-Partitions-After-Operations/main.js) |
+| [Avoid Flood in The City](problems/medium/1488-Avoid-Flood-in-The-City/) | Medio | Array, Hash Table, Binary Search, Greedy, Heap | [main.js](problems/medium/1488-Avoid-Flood-in-The-City/main.js) |
 
 
 
@@ -108,3 +108,7 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Linked List
 - ✅ Geometry
 - ✅ Scheduling
+- ✅ BFS
+- ✅ Prefix Sum
+- ✅ Memoization
+- ✅ Heap (Priority Queue)
