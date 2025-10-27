@@ -34,14 +34,14 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-| [Final Value of Variable After Performing Operations](problems/easy/2011-Final-Value-of-Variable-After-Performing-Operations/) | Fácil | Array, String, Simulation | [main.js](problems/easy/2011-Final-Value-of-Variable-After-Performing-Operations/main.js) |
-| [Lexicographically Smallest String After Applying Operations](problems/medium/1625-Lexicographically-Smallest-String-After-Applying-Operations/) | Medio | String, BFS, Hash Table | [main.js](problems/medium/1625-Lexicographically-Smallest-String-After-Applying-Operations/main.js) |
-| [Maximum Number of Distinct Elements After Operations](problems/medium/3397-Maximum-Number-of-Distinct-Elements-After-Operations/) | Medio | Array, Greedy, Sorting | [main.js](problems/medium/3397-Maximum-Number-of-Distinct-Elements-After-Operations/main.js) |
-| [Adjacent Increasing Subarrays Detection I](problems/easy/3349-Adjacent-Increasing-Subarrays-Detection-I/) | Medio | Array, Sliding Window, Two Pointers | [main.js](problems/easy/3349-Adjacent-Increasing-Subarrays-Detection-I/main.js) |
-| [Find Resultant Array After Removing Anagrams](problems/easy/2273-Find-Resultant-Array-After-Removing-Anagrams/) | Fácil | Array, String, Hash Table, Sorting | [main.js](problems/easy/2273-Find-Resultant-Array-After-Removing-Anagrams/main.js) |
-| [Maximum Total Damage With Spell Casting](problems/medium/3186-Maximum-Total-Damage-With-Spell-Casting/) | Medio | Array, Dynamic Programming, Hash Table, Sorting | [main.js](problems/medium/3186-Maximum-Total-Damage-With-Spell-Casting/main.js) |
-| [Compare Version Numbers](problems/medium/165-Compare-Version-Numbers/) | Medio | String, Two Pointers | [main.js](problems/medium/165-Compare-Version-Numbers/main.js) |
-| [Fraction to Recurring Decimal](problems/medium/166-Fraction-to-Recurring-Decimal/) | Medio | Hash Table, Math, String | [main.js](problems/medium/166-Fraction-to-Recurring-Decimal/main.js) |
+| [Number of Laser Beams in a Bank](problems/medium/2125-Number-of-Laser-Beams-in-a-Bank/) | Medio | Array, String, Math, Matrix | [main.js](problems/medium/2125-Number-of-Laser-Beams-in-a-Bank/main.js) |
+| [Simple Bank System](problems/medium/2043-Simple-Bank-System/) | Medio | Array, Design, Simulation, Hash Table | [main.js](problems/medium/2043-Simple-Bank-System/main.js) |
+| [Calculate Money in Leetcode Bank](problems/easy/1716-Calculate-Money-in-Leetcode-Bank/) | Fácil | Math, Simulation | [main.js](problems/easy/1716-Calculate-Money-in-Leetcode-Bank/main.js) |
+| [Next Greater Numerically Balanced Number](problems/medium/2048-Next-Greater-Numerically-Balanced-Number/) | Medio | Math, Backtracking, Enumeration | [main.js](problems/medium/2048-Next-Greater-Numerically-Balanced-Number/main.js) |
+| [Swim in Rising Water](problems/hard/778-Swim-in-Rising-Water/) | Difícil | Array, Binary Search, BFS, Matrix, Heap | [main.js](problems/hard/778-Swim-in-Rising-Water/main.js) |
+| [Pacific Atlantic Water Flow](problems/medium/417-Pacific-Atlantic-Water-Flow/) | Medio | Array, DFS, BFS, Matrix | [main.js](problems/medium/417-Pacific-Atlantic-Water-Flow/main.js) |
+| [Trapping Rain Water II](problems/hard/407-Trapping-Rain-Water-II/) | Difícil | Array, BFS, Heap, Matrix | [main.js](problems/hard/407-Trapping-Rain-Water-II/main.js) |
+| [Find Sum of Array Product of Magical Sequences](problems/hard/3539-Find-Sum-of-Array-Product-of-Magical-Sequences/) | Difícil | Dynamic Programming, Math, Combinatorics, Bit Manipulation | [main.js](problems/hard/3539-Find-Sum-of-Array-Product-of-Magical-Sequences/main.js) |
 | [Check If Digits Are Equal in String After Operations I](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/) | Fácil | String, Math, Simulation | [main.js](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/main.js) |
 | [Maximum Frequency of an Element After Performing Operations II](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/) | Difícil | Array, Binary Search, Sliding Window, Sorting, Hash Table | [main.js](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/main.js) |
 | [Maximum Frequency of an Element After Performing Operations I](problems/medium/3346-Maximum-Frequency-of-an-Element-After-Performing-Operations-I/) | Medio | Array, Hash Table, Prefix Sum | [main.js](problems/medium/3346-Maximum-Frequency-of-an-Element-After-Performing-Operations-I/main.js) |
@@ -108,10 +108,13 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Linked List
 - ✅ Geometry
 - ✅ Scheduling
-<<<<<<< HEAD
 - ✅ BFS
+- ✅ DFS
 - ✅ Prefix Sum
 - ✅ Memoization
 - ✅ Heap (Priority Queue)
-=======
->>>>>>> 805810565c46a4a04998e3869ff1591379d5e0a9
+- ✅ Matrix
+- ✅ Backtracking
+- ✅ Design
+- ✅ Enumeration
+- ✅ Combinatorics
