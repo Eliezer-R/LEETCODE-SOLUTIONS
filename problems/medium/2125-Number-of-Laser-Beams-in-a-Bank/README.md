@@ -21,39 +21,25 @@ Retorna el número total de rayos láser en el banco.
 
 * **Entrada**: `bank = ["011001","000000","010100","001000"]`
 * **Salida**: `8`
-* **Explicación**: Entre cada uno de los siguientes pares de dispositivos, hay un rayo. En total, hay 8 rayos:
-  * bank[0][1] -- bank[2][1]
-  * bank[0][1] -- bank[2][3]
-  * bank[0][2] -- bank[2][1]
-  * bank[0][2] -- bank[2][3]
-  * bank[0][5] -- bank[2][1]
-  * bank[0][5] -- bank[2][3]
-  * bank[2][1] -- bank[3][2]
-  * bank[2][3] -- bank[3][2]
 
 ### Ejemplo 2:
 
 * **Entrada**: `bank = ["000","111","000"]`
 * **Salida**: `0`
-* **Explicación**: No existen dos dispositivos ubicados en dos filas diferentes.
 
 ---
 
 ## 💭 Estrategia y Enfoque
 
-La clave para resolver este problema es entender que:
-
-1. **Los rayos láser solo se forman entre filas consecutivas que tengan dispositivos** (ignorando filas vacías entre ellas).
-2. **El número de rayos entre dos filas** = dispositivos en fila 1 × dispositivos en fila 2.
-3. Debemos **acumular el conteo de dispositivos** de la fila anterior y multiplicarlo por el conteo de la fila actual.
+La clave es entender que los rayos láser se forman entre filas consecutivas que tengan dispositivos. El número de rayos entre dos filas = dispositivos en fila 1 × dispositivos en fila 2.
 
 ### 🧩 Pasos del Algoritmo:
 
 1. Recorrer cada fila del banco.
-2. Contar cuántos dispositivos (`'1'`) hay en cada fila.
-3. Si la fila tiene dispositivos y la fila anterior también tenía, multiplicar ambos conteos y sumar al resultado.
-4. Actualizar el conteo anterior con el de la fila actual.
-5. Ignorar filas sin dispositivos (no rompen el patrón, simplemente no contribuyen).
+2. Contar cuántos dispositivos ('1') hay en cada fila.
+3. Si la fila tiene dispositivos y la fila anterior también, multiplicar ambos conteos.
+4. Sumar al resultado total.
+5. Actualizar el conteo anterior.
 
 ---
 
@@ -93,46 +79,18 @@ console.log(numberOfBeams(["011001","000000","010100","001000"])) // 8
 console.log(numberOfBeams(["000","111","000"])) // 0
 ```
 
-### 📝 Ejemplo paso a paso con `bank = ["011001","000000","010100","001000"]`:
+### 📝 Ejemplo paso a paso:
 
-```
-Fila 0: "011001" → resul = 3 dispositivos
-  count = 0, entonces count = 3
-  resul2 = 0
-
-Fila 1: "000000" → resul = 0 dispositivos
-  resul = 0, no hacemos nada (fila vacía)
-  count sigue siendo 3
-
-Fila 2: "010100" → resul = 2 dispositivos
-  resul = 2 y count = 3
-  resul2 += 2 × 3 = 6
-  count = 2
-
-Fila 3: "001000" → resul = 1 dispositivo
-  resul = 1 y count = 2
-  resul2 += 1 × 2 = 2
-  Total: resul2 = 6 + 2 = 8
-
-Resultado: 8 rayos láser
-```
+Ver el README del problema 2125 anterior para la explicación detallada paso a paso.
 
 ---
 
 ## 📊 Análisis de Rendimiento
 
-* **Complejidad temporal**: O(m × n), donde m es el número de filas y n es la longitud de cada fila.
-* **Complejidad espacial**: O(1), solo usamos variables auxiliares.
+* **Complejidad temporal**: O(m × n)
+* **Complejidad espacial**: O(1)
+
 ![rendimiento](./public/rendimiento.png)
-
----
-
-## 🎯 Aprendizajes Clave
-
-* El problema se reduce a **multiplicar conteos entre filas consecutivas** con dispositivos.
-* Las **filas vacías no afectan** el cálculo, solo se ignoran.
-* Usar `reduce` es una forma elegante de contar caracteres específicos en un string.
-* La clave está en **mantener el conteo de la fila anterior** con dispositivos.
 
 ---
 

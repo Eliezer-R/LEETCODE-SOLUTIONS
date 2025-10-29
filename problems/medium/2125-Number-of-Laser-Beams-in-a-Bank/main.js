@@ -28,3 +28,4 @@ const numberOfBeams = function (bank) {
 }
 
 console.log(numberOfBeams(['011001', '000000', '010100', '001000'])) // 8
+console.log(numberOfBeams(['000', '111', '000'])) // 0

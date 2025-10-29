@@ -34,6 +34,8 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
+| [Smallest Number With All Set Bits](problems/easy/3370-Smallest-Number-With-All-Set-Bits/) | Fácil | Math, Bit Manipulation | [main.js](problems/easy/3370-Smallest-Number-With-All-Set-Bits/main.js) |
+| [Make Array Elements Equal to Zero](problems/easy/3354-Make-Array-Elements-Equal-to-Zero/) | Fácil | Array, Simulation, Prefix Sum | [main.js](problems/easy/3354-Make-Array-Elements-Equal-to-Zero/main.js) |
 | [Number of Laser Beams in a Bank](problems/medium/2125-Number-of-Laser-Beams-in-a-Bank/) | Medio | Array, String, Math, Matrix | [main.js](problems/medium/2125-Number-of-Laser-Beams-in-a-Bank/main.js) |
 | [Simple Bank System](problems/medium/2043-Simple-Bank-System/) | Medio | Array, Design, Simulation, Hash Table | [main.js](problems/medium/2043-Simple-Bank-System/main.js) |
 | [Calculate Money in Leetcode Bank](problems/easy/1716-Calculate-Money-in-Leetcode-Bank/) | Fácil | Math, Simulation | [main.js](problems/easy/1716-Calculate-Money-in-Leetcode-Bank/main.js) |
@@ -45,8 +47,7 @@ problems/
 | [Check If Digits Are Equal in String After Operations I](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/) | Fácil | String, Math, Simulation | [main.js](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/main.js) |
 | [Maximum Frequency of an Element After Performing Operations II](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/) | Difícil | Array, Binary Search, Sliding Window, Sorting, Hash Table | [main.js](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/main.js) |
 | [Maximum Frequency of an Element After Performing Operations I](problems/medium/3346-Maximum-Frequency-of-an-Element-After-Performing-Operations-I/) | Medio | Array, Hash Table, Prefix Sum | [main.js](problems/medium/3346-Maximum-Frequency-of-an-Element-After-Performing-Operations-I/main.js) |
-| [Maximize the Number of Partitions After Operations](problems/hard/3003-Maximize-the-Number-of-Partitions-After-Operations/) | Difícil | String, Dynamic Programming, Bit Manipulation, Greedy, Memoization | [main.js](problems/hard/3003-Maximize-the-Number-of-Partitions-After-Operations/main.js) |
-| [Avoid Flood in The City](problems/medium/1488-Avoid-Flood-in-The-City/) | Medio | Array, Hash Table, Binary Search, Greedy, Heap | [main.js](problems/medium/1488-Avoid-Flood-in-The-City/main.js) |
+
 
 
 
