@@ -10,6 +10,7 @@
   </a>
 </p>
 
+
 ## 🎯 Objetivos
 
 - **Consistencia**: Resolver al menos 3 problemas por semana
@@ -17,6 +18,7 @@
 - **Documentación**: Explicar el proceso de pensamiento y enfoques
 
 ## 🏗️ Estructura del Repositorio
+
 
 ```
 problems/
@@ -79,6 +81,7 @@ npm install
 node problems/easy/01-two-sum/main.js
 node problems/easy/01-two-sum/main2.js
 ```
+
 ## 💡 Aprendizajes Clave
 
 - Reconocimiento de patrones comunes en problemas
