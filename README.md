@@ -10,6 +10,7 @@
   </a>
 </p>
 
+
 ## 🎯 Objetivos
 
 - **Consistencia**: Resolver al menos 3 problemas por semana
@@ -17,6 +18,7 @@
 - **Documentación**: Explicar el proceso de pensamiento y enfoques
 
 ## 🏗️ Estructura del Repositorio
+
 
 ```
 problems/
