@@ -46,7 +46,7 @@ problems/
 | [Find Sum of Array Product of Magical Sequences](problems/hard/3539-Find-Sum-of-Array-Product-of-Magical-Sequences/) | Difícil | Dynamic Programming, Math, Combinatorics, Bit Manipulation | [main.js](problems/hard/3539-Find-Sum-of-Array-Product-of-Magical-Sequences/main.js) |
 | [Check If Digits Are Equal in String After Operations I](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/) | Fácil | String, Math, Simulation | [main.js](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/main.js) |
 | [Maximum Frequency of an Element After Performing Operations II](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/) | Difícil | Array, Binary Search, Sliding Window, Sorting, Hash Table | [main.js](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/main.js) |
-| [Maximum Frequency of an Element After Performing Operations I](problems/medium/3346-Maximum-Frequency-of-an-Element-After-Performing-Operations-I/) | Medio | Array, Hash Table, Prefix Sum | [main.js](problems/medium/3346-Maximum-Frequency-of-an-Element-After-Performing-Operations-I/main.js) |
+| [Minimum Number of Increments on Subarrays to Form a Target Array](problems/hard/1526-Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array/) | Difícil | Array, Greedy, Stack, Dynamic Programming | [main.js](problems/hard/1526-Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array/main.js) |
 
 
 
