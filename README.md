@@ -34,7 +34,6 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-| [Smallest Number With All Set Bits](problems/easy/3370-Smallest-Number-With-All-Set-Bits/) | Fácil | Math, Bit Manipulation | [main.js](problems/easy/3370-Smallest-Number-With-All-Set-Bits/main.js) |
 | [Make Array Elements Equal to Zero](problems/easy/3354-Make-Array-Elements-Equal-to-Zero/) | Fácil | Array, Simulation, Prefix Sum | [main.js](problems/easy/3354-Make-Array-Elements-Equal-to-Zero/main.js) |
 | [Number of Laser Beams in a Bank](problems/medium/2125-Number-of-Laser-Beams-in-a-Bank/) | Medio | Array, String, Math, Matrix | [main.js](problems/medium/2125-Number-of-Laser-Beams-in-a-Bank/main.js) |
 | [Simple Bank System](problems/medium/2043-Simple-Bank-System/) | Medio | Array, Design, Simulation, Hash Table | [main.js](problems/medium/2043-Simple-Bank-System/main.js) |
