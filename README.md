@@ -36,16 +36,14 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-| [Smallest Number With All Set Bits](problems/easy/3370-Smallest-Number-With-All-Set-Bits/) | Fácil | Math, Bit Manipulation | [main.js](problems/easy/3370-Smallest-Number-With-All-Set-Bits/main.js) |
-| [Make Array Elements Equal to Zero](problems/easy/3354-Make-Array-Elements-Equal-to-Zero/) | Fácil | Array, Simulation, Prefix Sum | [main.js](problems/easy/3354-Make-Array-Elements-Equal-to-Zero/main.js) |
-| [Number of Laser Beams in a Bank](problems/medium/2125-Number-of-Laser-Beams-in-a-Bank/) | Medio | Array, String, Math, Matrix | [main.js](problems/medium/2125-Number-of-Laser-Beams-in-a-Bank/main.js) |
-| [Simple Bank System](problems/medium/2043-Simple-Bank-System/) | Medio | Array, Design, Simulation, Hash Table | [main.js](problems/medium/2043-Simple-Bank-System/main.js) |
-| [Calculate Money in Leetcode Bank](problems/easy/1716-Calculate-Money-in-Leetcode-Bank/) | Fácil | Math, Simulation | [main.js](problems/easy/1716-Calculate-Money-in-Leetcode-Bank/main.js) |
-| [Next Greater Numerically Balanced Number](problems/medium/2048-Next-Greater-Numerically-Balanced-Number/) | Medio | Math, Backtracking, Enumeration | [main.js](problems/medium/2048-Next-Greater-Numerically-Balanced-Number/main.js) |
-| [Swim in Rising Water](problems/hard/778-Swim-in-Rising-Water/) | Difícil | Array, Binary Search, BFS, Matrix, Heap | [main.js](problems/hard/778-Swim-in-Rising-Water/main.js) |
-| [Pacific Atlantic Water Flow](problems/medium/417-Pacific-Atlantic-Water-Flow/) | Medio | Array, DFS, BFS, Matrix | [main.js](problems/medium/417-Pacific-Atlantic-Water-Flow/main.js) |
-| [Trapping Rain Water II](problems/hard/407-Trapping-Rain-Water-II/) | Difícil | Array, BFS, Heap, Matrix | [main.js](problems/hard/407-Trapping-Rain-Water-II/main.js) |
-| [Find Sum of Array Product of Magical Sequences](problems/hard/3539-Find-Sum-of-Array-Product-of-Magical-Sequences/) | Difícil | Dynamic Programming, Math, Combinatorics, Bit Manipulation | [main.js](problems/hard/3539-Find-Sum-of-Array-Product-of-Magical-Sequences/main.js) |
+| [The Two Sneaky Numbers of Digitville](problems/easy/3289-The-Two-Sneaky-Numbers-of-Digitville/) | Fácil | Array, Hash Table, Math | [main.js](problems/easy/3289-The-Two-Sneaky-Numbers-of-Digitville/main.js) |
+| [Delete Nodes From Linked List Present in Array](problems/medium/3217-Delete-Nodes-From-Linked-List-Present-in-Array/) | Medio | Linked List, Hash Table | [main.js](problems/medium/3217-Delete-Nodes-From-Linked-List-Present-in-Array/main.js) |
+| [Count Unguarded Cells in the Grid](problems/medium/2257-Count-Unguarded-Cells-in-the-Grid/) | Medio | Array, Matrix, Simulation | [main.js](problems/medium/2257-Count-Unguarded-Cells-in-the-Grid/main.js) |
+| [Minimum Time to Make Rope Colorful](problems/medium/1578-Minimum-Time-to-Make-Rope-Colorful/) | Medio | Array, String, Greedy, Dynamic Programming | [main.js](problems/medium/1578-Minimum-Time-to-Make-Rope-Colorful/main.js) |
+| [Find X-Sum of All K-Long Subarrays I](problems/easy/3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) | Fácil | Array, Hash Table, Sliding Window, Sorting | [main.js](problems/easy/3318-Find-X-Sum-of-All-K-Long-Subarrays-I/main.js) |
+| [Find X-Sum of All K-Long Subarrays II](problems/hard/3321-Find-X-Sum-of-All-K-Long-Subarrays-II/) | Difícil | Array, Hash Table, Sliding Window, Heap | [main.js](problems/hard/3321-Find-X-Sum-of-All-K-Long-Subarrays-II/main.js) |
+| [Power Grid Maintenance](problems/hard/3607-Power-Grid-Maintenance/) | Difícil | Union Find, Heap, Graph, Array | [main.js](problems/hard/3607-Power-Grid-Maintenance/main.js) |
+| [Minimum One Bit Operations to Make Integers Zero](problems/hard/1611-Minimum-One-Bit-Operations-to-Make-Integers-Zero/) | Difícil | Math, Bit Manipulation, Dynamic Programming, Recursion | [main.js](problems/hard/1611-Minimum-One-Bit-Operations-to-Make-Integers-Zero/main.js) |
 | [Check If Digits Are Equal in String After Operations I](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/) | Fácil | String, Math, Simulation | [main.js](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/main.js) |
 | [Maximum Frequency of an Element After Performing Operations II](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/) | Difícil | Array, Binary Search, Sliding Window, Sorting, Hash Table | [main.js](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/main.js) |
 | [Minimum Number of Increments on Subarrays to Form a Target Array](problems/hard/1526-Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array/) | Difícil | Array, Greedy, Stack, Dynamic Programming | [main.js](problems/hard/1526-Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array/main.js) |
