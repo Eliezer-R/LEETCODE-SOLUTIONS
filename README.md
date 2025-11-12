@@ -43,10 +43,10 @@ problems/
 | [Find X-Sum of All K-Long Subarrays I](problems/easy/3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) | Fácil | Array, Hash Table, Sliding Window, Sorting | [main.js](problems/easy/3318-Find-X-Sum-of-All-K-Long-Subarrays-I/main.js) |
 | [Find X-Sum of All K-Long Subarrays II](problems/hard/3321-Find-X-Sum-of-All-K-Long-Subarrays-II/) | Difícil | Array, Hash Table, Sliding Window, Heap | [main.js](problems/hard/3321-Find-X-Sum-of-All-K-Long-Subarrays-II/main.js) |
 | [Power Grid Maintenance](problems/hard/3607-Power-Grid-Maintenance/) | Difícil | Union Find, Heap, Graph, Array | [main.js](problems/hard/3607-Power-Grid-Maintenance/main.js) |
-| [Minimum One Bit Operations to Make Integers Zero](problems/hard/1611-Minimum-One-Bit-Operations-to-Make-Integers-Zero/) | Difícil | Math, Bit Manipulation, Dynamic Programming, Recursion | [main.js](problems/hard/1611-Minimum-One-Bit-Operations-to-Make-Integers-Zero/main.js) |
-| [Check If Digits Are Equal in String After Operations I](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/) | Fácil | String, Math, Simulation | [main.js](problems/easy/3461-Check-If-Digits-Are-Equal-in-String-After-Operations-I/main.js) |
-| [Maximum Frequency of an Element After Performing Operations II](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/) | Difícil | Array, Binary Search, Sliding Window, Sorting, Hash Table | [main.js](problems/hard/3347-Maximum-Frequency-of-an-Element-After-Performing-Operations-II/main.js) |
-| [Minimum Number of Increments on Subarrays to Form a Target Array](problems/hard/1526-Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array/) | Difícil | Array, Greedy, Stack, Dynamic Programming | [main.js](problems/hard/1526-Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array/main.js) |
+| [Count Operations to Obtain Zero](problems/easy/2169-Count-Operations-to-Obtain-Zero/) | Facil | Math, Simulation | [main.js](problems/easy/2169-Count-Operations-to-Obtain-Zero/main.js) |
+| [Minimum Operations to Convert All Elements to Zero](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1y/) | Medio | Array, Math, Number Theory, Greedy | [main.js](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/main.js) |
+| [Ones and Zeroes](problems/medium/474-Ones-and-Zeroes/) | Medio | Array, String, Dynamic Programming | [main.js](problems/medium/474-Ones-and-Zeroes/main.js) |
+| [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/) | Medio | Array, Math, Number Theory, Greedy| [main.js](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/main.js) |
 
 
 
@@ -120,3 +120,4 @@ node problems/easy/01-two-sum/main2.js
 - ✅ Design
 - ✅ Enumeration
 - ✅ Combinatorics
+- ✅ Number Theory
