@@ -44,7 +44,7 @@ problems/
 | [Find X-Sum of All K-Long Subarrays II](problems/hard/3321-Find-X-Sum-of-All-K-Long-Subarrays-II/) | Difícil | Array, Hash Table, Sliding Window, Heap | [main.js](problems/hard/3321-Find-X-Sum-of-All-K-Long-Subarrays-II/main.js) |
 | [Power Grid Maintenance](problems/hard/3607-Power-Grid-Maintenance/) | Difícil | Union Find, Heap, Graph, Array | [main.js](problems/hard/3607-Power-Grid-Maintenance/main.js) |
 | [Count Operations to Obtain Zero](problems/easy/2169-Count-Operations-to-Obtain-Zero/) | Facil | Math, Simulation | [main.js](problems/easy/2169-Count-Operations-to-Obtain-Zero/main.js) |
-| [Minimum Operations to Convert All Elements to Zero](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1y/) | Medio | Array, Math, Number Theory, Greedy | [main.js](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/main.js) |
+| [Minimum Operations to Convert All Elements to Zero](problems/medium/3542-Minimum-Operations-to-Convert-All-Elements-to-Zero/) | Medio | Array, Math, Number Theory, Greedy | [main.js](problems/medium/3542-Minimum-Operations-to-Convert-All-Elements-to-Zero1/main.js) |
 | [Ones and Zeroes](problems/medium/474-Ones-and-Zeroes/) | Medio | Array, String, Dynamic Programming | [main.js](problems/medium/474-Ones-and-Zeroes/main.js) |
 | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/) | Medio | Array, Math, Number Theory, Greedy| [main.js](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/main.js) |
 
