@@ -33,18 +33,17 @@ problems/
 
 ## 🔥 Soluciones Recientes
 
-
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-| [The Two Sneaky Numbers of Digitville](problems/easy/3289-The-Two-Sneaky-Numbers-of-Digitville/) | Fácil | Array, Hash Table, Math | [main.js](problems/easy/3289-The-Two-Sneaky-Numbers-of-Digitville/main.js) |
-| [Delete Nodes From Linked List Present in Array](problems/medium/3217-Delete-Nodes-From-Linked-List-Present-in-Array/) | Medio | Linked List, Hash Table | [main.js](problems/medium/3217-Delete-Nodes-From-Linked-List-Present-in-Array/main.js) |
-| [Count Unguarded Cells in the Grid](problems/medium/2257-Count-Unguarded-Cells-in-the-Grid/) | Medio | Array, Matrix, Simulation | [main.js](problems/medium/2257-Count-Unguarded-Cells-in-the-Grid/main.js) |
-| [Minimum Time to Make Rope Colorful](problems/medium/1578-Minimum-Time-to-Make-Rope-Colorful/) | Medio | Array, String, Greedy, Dynamic Programming | [main.js](problems/medium/1578-Minimum-Time-to-Make-Rope-Colorful/main.js) |
-| [Find X-Sum of All K-Long Subarrays I](problems/easy/3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) | Fácil | Array, Hash Table, Sliding Window, Sorting | [main.js](problems/easy/3318-Find-X-Sum-of-All-K-Long-Subarrays-I/main.js) |
-| [Find X-Sum of All K-Long Subarrays II](problems/hard/3321-Find-X-Sum-of-All-K-Long-Subarrays-II/) | Difícil | Array, Hash Table, Sliding Window, Heap | [main.js](problems/hard/3321-Find-X-Sum-of-All-K-Long-Subarrays-II/main.js) |
+| [Fraction to Recurring Decimal](problems/medium/166-Fraction-to-Recurring-Decimal/) | Medio | Hash Table, Math, String | [main.js](problems/medium/166-Fraction-to-Recurring-Decimal/main.js) |
+| [Maximum Number of Operations to Move Ones to the End](problems/medium/3228-Maximum-Number-of-Operations-to-Move-Ones-to-the-End/) | Medio | String, Greedy, Counting | [main.js](problems/medium/3228-Maximum-Number-of-Operations-to-Move-Ones-to-the-End/main.js) |
+| [Increment Submatrices by One](problems/medium/2536-Increment-Submatrices-by-One/) | Medio | Array, Matrix, Prefix Sum | [main.js](problems/medium/2536-Increment-Submatrices-by-One/main.js) |
+| [Count the Number of Substrings With Dominant Ones](problems/medium/3234-Count-the-Number-of-Substrings-With-Dominant-Ones/) | Medio | String, Math, Prefix Sum, Counting | [main.js](problems/medium/3234-Count-the-Number-of-Substrings-With-Dominant-Ones/main.js) |
+| [Number of Substrings With Only 1s](problems/medium/1513-Number-of-Substrings-With-Only-1s/) | Medio | String, Math, Combinatorics | [main.js](problems/medium/1513-Number-of-Substrings-With-Only-1s/main.js) |
+| [Check If All 1's Are at Least Length K Places Away](problems/easy/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/) | Fácil | Array | [main.js](problems/easy/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/main.js) |
+| [1-bit and 2-bit Characters](problems/easy/717-1-bit-and-2-bit-Characters/) | Fácil | Array, Greedy, Simulation | [main.js](problems/easy/717-1-bit-and-2-bit-Characters/main.js) |
 | [Power Grid Maintenance](problems/hard/3607-Power-Grid-Maintenance/) | Difícil | Union Find, Heap, Graph, Array | [main.js](problems/hard/3607-Power-Grid-Maintenance/main.js) |
-| [Count Operations to Obtain Zero](problems/easy/2169-Count-Operations-to-Obtain-Zero/) | Facil | Math, Simulation | [main.js](problems/easy/2169-Count-Operations-to-Obtain-Zero/main.js) |
-| [Minimum Operations to Convert All Elements to Zero](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1y/) | Medio | Array, Math, Number Theory, Greedy | [main.js](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/main.js) |
+| [Count Operations to Obtain Zero](problems/easy/2169-Count-Operations-to-Obtain-Zero/) | Fácil | Math, Simulation | [main.js](problems/easy/2169-Count-Operations-to-Obtain-Zero/main.js) |
 | [Ones and Zeroes](problems/medium/474-Ones-and-Zeroes/) | Medio | Array, String, Dynamic Programming | [main.js](problems/medium/474-Ones-and-Zeroes/main.js) |
 | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/) | Medio | Array, Math, Number Theory, Greedy| [main.js](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/main.js) |
 
