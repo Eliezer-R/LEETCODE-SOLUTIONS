@@ -45,6 +45,7 @@ problems/
 | [Count Operations to Obtain Zero](problems/easy/2169-Count-Operations-to-Obtain-Zero/) | Fácil | Math, Simulation | [main.js](problems/easy/2169-Count-Operations-to-Obtain-Zero/main.js) |
 | [Ones and Zeroes](problems/medium/474-Ones-and-Zeroes/) | Medio | Array, String, Dynamic Programming | [main.js](problems/medium/474-Ones-and-Zeroes/main.js) |
 | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/) | Medio | Array, Math, Number Theory, Greedy| [main.js](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/main.js) |
+| [Keep Multiplying Found Values by Two](problems/easy/2154-Keep-Multiplying-Found-Values-by-Two/) | Facil | Array, Hash Table, Simulation| [main.js](problems/easy/2154-Keep-Multiplying-Found-Values-by-Two/main.js) |
 
 
 
