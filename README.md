@@ -42,8 +42,8 @@ problems/
 | [Check If All 1's Are at Least Length K Places Away](problems/easy/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/) | Fácil | Array | [main.js](problems/easy/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/main.js) |
 | [1-bit and 2-bit Characters](problems/easy/717-1-bit-and-2-bit-Characters/) | Fácil | Array, Greedy, Simulation | [main.js](problems/easy/717-1-bit-and-2-bit-Characters/main.js) |
 | [Power Grid Maintenance](problems/hard/3607-Power-Grid-Maintenance/) | Difícil | Union Find, Heap, Graph, Array | [main.js](problems/hard/3607-Power-Grid-Maintenance/main.js) |
-| [Count Operations to Obtain Zero](problems/easy/2169-Count-Operations-to-Obtain-Zero/) | Fácil | Math, Simulation | [main.js](problems/easy/2169-Count-Operations-to-Obtain-Zero/main.js) |
-| [Ones and Zeroes](problems/medium/474-Ones-and-Zeroes/) | Medio | Array, String, Dynamic Programming | [main.js](problems/medium/474-Ones-and-Zeroes/main.js) |
+| [Set Intersection Size At Least Two](problems/hard/757-Set-Intersection-Size-At-Least-Two/) | Difícil | Array, Greedy, Sorting | [main.js](problems/hard/757-Set-Intersection-Size-At-Least-Two/main.js) |
+| [Unique Length-3 Palindromic Subsequences](problems/medium/1930-Unique-Length-3-Palindromic-Subsequences/) | Medio | Hash Table, String, Bit Manipulation, Prefix Sum | [main.js](problems/medium/1930-Unique-Length-3-Palindromic-Subsequences/main.js) |
 | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/) | Medio | Array, Math, Number Theory, Greedy| [main.js](problems/medium/2654-Minimum-Number-of-Operations-to-Make-All-Array-Elements-Equal-to-1/main.js) |
 | [Keep Multiplying Found Values by Two](problems/easy/2154-Keep-Multiplying-Found-Values-by-Two/) | Facil | Array, Hash Table, Simulation| [main.js](problems/easy/2154-Keep-Multiplying-Found-Values-by-Two/main.js) |
 
