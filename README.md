@@ -34,7 +34,6 @@ problems/
 
 | Problema   | Dificultad | Temas                | Solución                      |
 |------------|------------|----------------------|-------------------------------|
-
 | [Find Minimum Operations to Make All Elements Divisible by Three](problems/easy/3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three/) | Fácil | Array, Math | [main.js](problems/easy/3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three/main.js) |
 | [Greatest Sum Divisible by Three](problems/medium/1262-Greatest-Sum-Divisible-by-Three/) | Medio | Array, Dynamic Programming, Greedy, Math | [main.js](problems/medium/1262-Greatest-Sum-Divisible-by-Three/main.js) |
 | [Increment Submatrices by One](problems/medium/2536-Increment-Submatrices-by-One/) | Medio | Array, Matrix, Prefix Sum | [main.js](problems/medium/2536-Increment-Submatrices-by-One/main.js) |
