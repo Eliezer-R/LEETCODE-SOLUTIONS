@@ -39,7 +39,7 @@ problems/
 | [Greatest Sum Divisible by Three](problems/medium/1262-Greatest-Sum-Divisible-by-Three/) | Medio | Array, Dynamic Programming, Greedy, Math | [main.js](problems/medium/1262-Greatest-Sum-Divisible-by-Three/main.js) |
 | [Increment Submatrices by One](problems/medium/2536-Increment-Submatrices-by-One/) | Medio | Array, Matrix, Prefix Sum | [main.js](problems/medium/2536-Increment-Submatrices-by-One/main.js) |
 | [Binary Prefix Divisible By 5](problems/easy/1018-Binary-Prefix-Divisible-By-5/) | Fácil | Array, Bit Manipulation, Math | [main.js](problems/easy/1018-Binary-Prefix-Divisible-By-5/main.js) |
-| [Number of Substrings With Only 1s](problems/medium/1513-Number-of-Substrings-With-Only-1s/) | Medio | String, Math, Combinatorics | [main.js](problems/medium/1513-Number-of-Substrings-With-Only-1s/main.js) |
+| [Smallest Integer Divisible by K](problems/medium/1015-Smallest-Integer-Divisible-by-K/) | Medio | Math, Number Theory, Modular Arithmetic | [main.js](problems/medium/1015-Smallest-Integer-Divisible-by-K/main.js) |
 | [Check If All 1's Are at Least Length K Places Away](problems/easy/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/) | Fácil | Array | [main.js](problems/easy/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/main.js) |
 | [1-bit and 2-bit Characters](problems/easy/717-1-bit-and-2-bit-Characters/) | Fácil | Array, Greedy, Simulation | [main.js](problems/easy/717-1-bit-and-2-bit-Characters/main.js) |
 | [Power Grid Maintenance](problems/hard/3607-Power-Grid-Maintenance/) | Difícil | Union Find, Heap, Graph, Array | [main.js](problems/hard/3607-Power-Grid-Maintenance/main.js) |
