@@ -36,8 +36,8 @@ problems/
 |------------|------------|----------------------|-------------------------------|
 | [Find Minimum Operations to Make All Elements Divisible by Three](problems/easy/3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three/) | Fácil | Array, Math | [main.js](problems/easy/3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three/main.js) |
 | [Greatest Sum Divisible by Three](problems/medium/1262-Greatest-Sum-Divisible-by-Three/) | Medio | Array, Dynamic Programming, Greedy, Math | [main.js](problems/medium/1262-Greatest-Sum-Divisible-by-Three/main.js) |
-| [Increment Submatrices by One](problems/medium/2536-Increment-Submatrices-by-One/) | Medio | Array, Matrix, Prefix Sum | [main.js](problems/medium/2536-Increment-Submatrices-by-One/main.js) |
-| [Binary Prefix Divisible By 5](problems/easy/1018-Binary-Prefix-Divisible-By-5/) | Fácil | Array, Bit Manipulation, Math | [main.js](problems/easy/1018-Binary-Prefix-Divisible-By-5/main.js) |
+| [Maximum Number of K-Divisible Components](problems/hard/2872-Maximum-Number-of-K-Divisible-Components/) | Difícil | Tree, DFS, Graph, Dynamic Programming | [main.js](problems/hard/2872-Maximum-Number-of-K-Divisible-Components/main.js) |
+| [Minimum Operations to Make Array Sum Divisible by K](problems/easy/3512-Minimum-Operations-to-Make-Array-Sum-Divisible-by-K/) | Fácil | Array, Math, Greedy | [main.js](problems/easy/3512-Minimum-Operations-to-Make-Array-Sum-Divisible-by-K/main.js) |
 | [Smallest Integer Divisible by K](problems/medium/1015-Smallest-Integer-Divisible-by-K/) | Medio | Math, Number Theory, Modular Arithmetic | [main.js](problems/medium/1015-Smallest-Integer-Divisible-by-K/main.js) |
 | [Check If All 1's Are at Least Length K Places Away](problems/easy/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/) | Fácil | Array | [main.js](problems/easy/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/main.js) |
 | [1-bit and 2-bit Characters](problems/easy/717-1-bit-and-2-bit-Characters/) | Fácil | Array, Greedy, Simulation | [main.js](problems/easy/717-1-bit-and-2-bit-Characters/main.js) |
